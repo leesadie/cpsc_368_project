@@ -1,0 +1,1291 @@
+,Region,Org Code,Provider name,Modality,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec,Jan,Feb,Mar,Year
+0,-,-,ENGLAND,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+1,-,-,ENGLAND,Diagnostic Ultrasonography,5,5,7,8,11,12,13,13,12,13,11,12,10
+2,-,-,ENGLAND,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,-,-,ENGLAND,Magnetic Resonance Imaging,8,8,12,14,17,17,17,18,18,21,17,16,16
+4,-,-,ENGLAND,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,-,-,ENGLAND,Nuclear Medicine Procedure,8,10,14,17,18,18,16,17,15,20,15,15,16
+6,-,-,ENGLAND,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,-,-,ENGLAND,Positron Emission Tomography,7,7,7,7,7,9,8,8,8,8,7,8,8
+8,-,-,ENGLAND,Single Photon Emission Computerized Tomography,7,8,12,14,15,15,14,13,13,16,11,12,13
+9,,,,,,,,,,,,,,,,,
+10,Y56,NT9,Alliance Medical,Computerized Axial Tomography,1,1,1,1,2,2,2,2,3,2,3,2,2
+11,Y56,NT9,Alliance Medical,Diagnostic Ultrasonography,19,63,82,.,.,4,10,15,9,9,7,8,10
+12,Y56,NT9,Alliance Medical,Magnetic Resonance Imaging,8,6,7,11,15,13,15,17,15,10,9,18,12
+13,Y56,NT9,Alliance Medical,Plain Radiography,.,.,.,114,30,49.5,45,32,60,37,13,18,48
+14,Y56,NT9,Alliance Medical,Positron Emission Tomography,7,7,8,8,8,11,8,8,8,10,11,8,9
+15,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Diagnostic Ultrasonography,8,5,4,5,7,6,7,8,8,10,8,8,7
+17,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Fluoroscopy,0,0,1,2,1,1,0,0,0,1,3,2,1
+18,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Magnetic Resonance Imaging,17,13,9,10,13,16,18,27,26,26,18,15,18
+19,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Nuclear Medicine Procedure,4.5,13.5,19,40,24.5,19,13.5,16,21,25,19.5,14,19
+20,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,Y56,RF4,"Barking, Havering and Redbridge University Hospitals NHS Trust",Single Photon Emission Computerized Tomography,0,0,0,0,0,12.5,1,4,5,10.5,3,2,2
+22,Y56,R1H,Barts Health NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,0,0,0,0,0,0
+23,Y56,R1H,Barts Health NHS Trust,Diagnostic Ultrasonography,13,6,8,12,16,23,25,23,18,12,13,15,15
+24,Y56,R1H,Barts Health NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,Y56,R1H,Barts Health NHS Trust,Magnetic Resonance Imaging,16,8,11,14,21,28,30,26,27,31,24,17,22
+26,Y56,R1H,Barts Health NHS Trust,Nuclear Medicine Procedure,5,7,10,13,14,13.5,11,11,13,15,7,10,11
+27,Y56,R1H,Barts Health NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,Y56,R1H,Barts Health NHS Trust,Positron Emission Tomography,11,8.5,9,15.5,20,16,15,21,27,24,13,14,17
+29,Y56,R1H,Barts Health NHS Trust,Single Photon Emission Computerized Tomography,.,*,22,84.5,34,28.5,27.5,29,35,30,38,47.5,30
+30,Y56,NT4,BMI Healthcare,Computerized Axial Tomography,0,6.5,3,2,3,3,6,3,2,3,3,3,3
+31,Y56,NT4,BMI Healthcare,Diagnostic Ultrasonography,1,1,3,3,6,7,7,7,7,7,8,8,6
+32,Y56,NT4,BMI Healthcare,Fluoroscopy,2.5,0,0,3,4,4,7,6,0,7,0,4,2
+33,Y56,NT4,BMI Healthcare,Magnetic Resonance Imaging,0,1,7,8,9,12,16,21,21.5,27,15,14,14
+34,Y56,NT4,BMI Healthcare,Nuclear Medicine Procedure,.,.,.,.,.,.,.,.,.,.,.,*,*
+35,Y56,NT4,BMI Healthcare,Plain Radiography,0,0,0.5,0,0,0,3,0,0,0,0,0,0
+36,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Diagnostic Ultrasonography,14,12,24,0,14,0,0,0,0,16,0,0,0
+38,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Fluoroscopy,1,1,1,0,4,0,0,0,0,7,0,0,0
+39,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Magnetic Resonance Imaging,4,5,19,0,20,0,0,0,0,14,2,0,0
+40,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Nuclear Medicine Procedure,3.5,9,9,0,28.5,0,0,0,0,31,1,0,0
+41,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,1,0,0
+42,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Positron Emission Tomography,.,.,.,.,.,.,.,*,.,93,5,0,58.5
+43,Y56,RQM,Chelsea and Westminster Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,14,33.5,65,0,0,0,0,55,2,0,0
+44,Y56,RJ6,Croydon Health Services NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,Y56,RJ6,Croydon Health Services NHS Trust,Diagnostic Ultrasonography,0,0,0,0,0,0,0,0,0,0,0,0,0
+46,Y56,RJ6,Croydon Health Services NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,Y56,RJ6,Croydon Health Services NHS Trust,Magnetic Resonance Imaging,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Y56,RJ6,Croydon Health Services NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,1,1,0,0,0,0
+50,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Diagnostic Ultrasonography,4,9,13,14,31,40,30,23,10,7,7,12,14
+51,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Fluoroscopy,2.5,2,3,4,7,14,9,11,7,10,10,8,7
+52,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Magnetic Resonance Imaging,27.5,21,15.5,19,19,19,15,19,16,25,23,14,18
+53,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Nuclear Medicine Procedure,20,15,17,11,57,50,22,20,13,21,10,13,21
+54,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Y56,RVR,Epsom and St Helier University Hospitals NHS Trust,Single Photon Emission Computerized Tomography,8,15,13,8.5,30,28,15,11,10,12,8,11,12.5
+56,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Computerized Axial Tomography,0,1,5,7,17,8,7.5,9,6,2,7,7,5
+57,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Diagnostic Ultrasonography,1,1,4,8,19,42,30,26,14,6,12,21,12
+58,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Fluoroscopy,2,2,3,5,5,7,8,6,4,4,4,6,5
+59,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Magnetic Resonance Imaging,6,8,81,65,35,35,37,29,28,36,35,35,36
+60,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Nuclear Medicine Procedure,14.5,12,32,46.5,39,50,57,43,41,59,60.5,56.5,48
+61,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,Y56,RP4,Great Ormond Street Hospital For Children NHS Foundation Trust,Single Photon Emission Computerized Tomography,51,13,7.5,24.5,28,21.5,26.5,26,8,23.5,13,9,14
+63,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Computerized Axial Tomography,0,0,1,2,2,5,4,2,1,0,1,4,1
+64,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Diagnostic Ultrasonography,5,3,5,7,12,11,10,10,9,10,10,12,9
+65,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Fluoroscopy,1,1,1,1,1,2,2,1,1,1,2,3,1
+66,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Magnetic Resonance Imaging,5,4,11,20,37,40,35,32,22,26,26,21,24
+67,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Nuclear Medicine Procedure,6,9.5,12,16,14,13,13,14,14,21,14,16,14
+68,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Positron Emission Tomography,17.5,20.5,32,21.5,19.5,35.5,22,22,14,41,24,25,25
+70,Y56,RJ1,Guy's and St Thomas' NHS Foundation Trust,Single Photon Emission Computerized Tomography,3,3,7,5.5,5,7,8,8.5,6.5,7,2,6,6
+71,Y56,NW6,HCA International,Computerized Axial Tomography,.,.,108,101,56,36,.,.,.,.,.,.,99
+72,Y56,NW6,HCA International,Diagnostic Ultrasonography,.,.,.,55,21,.,.,.,.,.,.,.,22.5
+73,Y56,NW6,HCA International,Magnetic Resonance Imaging,.,.,97,71.5,51,177,.,.,.,.,.,.,61.5
+74,Y56,NW6,HCA International,Plain Radiography,.,.,*,.,.,.,.,.,.,.,.,.,*
+75,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Diagnostic Ultrasonography,0,0,1,7,9,9,13,9,9,8,8,9,8
+77,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Fluoroscopy,1,1,1,1,2,2,1,3,2,3,8,2,1
+78,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Magnetic Resonance Imaging,1,1,1,6,15,12,14,17,13,12,9,7,9
+79,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Nuclear Medicine Procedure,8,14.5,49,19.5,15.5,13,13,17,13,12,19,15,14
+80,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,Y56,RQX,Homerton University Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,0,0,0,0,0,0,0
+82,Y56,RYJ,Imperial College Healthcare NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,Y56,RYJ,Imperial College Healthcare NHS Trust,Diagnostic Ultrasonography,1,2,5,16,23,24,23,20,20,23,16,18,18
+84,Y56,RYJ,Imperial College Healthcare NHS Trust,Fluoroscopy,1,2,3,5,5,6,7.5,10,7.5,5,3,5,5
+85,Y56,RYJ,Imperial College Healthcare NHS Trust,Magnetic Resonance Imaging,3,5,8,15,21,24,28,25,25,27,16,15,19
+86,Y56,RYJ,Imperial College Healthcare NHS Trust,Nuclear Medicine Procedure,10,8,12,34,22,18,16,14,12,22,12,10,14
+87,Y56,RYJ,Imperial College Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,Y56,RYJ,Imperial College Healthcare NHS Trust,Positron Emission Tomography,15,11,9,12,8.5,12,13,13,16,26,19,18,14
+89,Y56,RYJ,Imperial College Healthcare NHS Trust,Single Photon Emission Computerized Tomography,29,12,14,26,29,21,21,18.5,16,24.5,11,13,21
+90,Y56,NV1,InHealth Limited,Computerized Axial Tomography,.,.,*,130,64,76,82,10,12.5,12.5,12,11,34
+91,Y56,NV1,InHealth Limited,Diagnostic Ultrasonography,34,17,18,16,24,39,41,46,48,56,52,39,37
+92,Y56,NV1,InHealth Limited,Fluoroscopy,.,.,.,*,98.5,194,63,24.5,23,18,17,15,28
+93,Y56,NV1,InHealth Limited,Magnetic Resonance Imaging,23,10,16,22,31,37,36,40,47,44,25,19,29
+94,Y56,NV1,InHealth Limited,Plain Radiography,6,5,8,18,26,35,39,35,53,57,37,31,32
+95,Y56,RJZ,King's College Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+96,Y56,RJZ,King's College Hospital NHS Foundation Trust,Diagnostic Ultrasonography,0,1,1,3,6,10,13,14,13,4,6,7,5
+97,Y56,RJZ,King's College Hospital NHS Foundation Trust,Fluoroscopy,1,1,1,1,1,1,1,1,1,1,1,1,1
+98,Y56,RJZ,King's College Hospital NHS Foundation Trust,Magnetic Resonance Imaging,12,6,15,20,23,24,27,30,32,22,23,21.5,23
+99,Y56,RJZ,King's College Hospital NHS Foundation Trust,Nuclear Medicine Procedure,5,10,11,13,21,15,17,14,15,7,9,15,14
+100,Y56,RJZ,King's College Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,Y56,RJZ,King's College Hospital NHS Foundation Trust,Positron Emission Tomography,11,9,9,9,10,12,10,12,10,15,13,10,11
+102,Y56,RJZ,King's College Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,4,21.5,12,13.5,21,16,20.5,14,18,7,7,30,16
+103,Y56,RAX,Kingston Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,1,0,0,1,1,1,1,0
+104,Y56,RAX,Kingston Hospital NHS Foundation Trust,Diagnostic Ultrasonography,0,0,1,1,2,4,9,3,2,5,11,9,3
+105,Y56,RAX,Kingston Hospital NHS Foundation Trust,Fluoroscopy,1,0,0,1,0,1,3,8.5,2,1,1,3,1
+106,Y56,RAX,Kingston Hospital NHS Foundation Trust,Magnetic Resonance Imaging,1,3,7,12,7,7,9,8,8,5,6,7,7
+107,Y56,RAX,Kingston Hospital NHS Foundation Trust,Nuclear Medicine Procedure,9,12.5,12,19,15.5,16,9,12,9,16.5,7,9.5,13
+108,Y56,RAX,Kingston Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,Y56,RAX,Kingston Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,*,135,59,30.5,18,24,28,37,11.5,23,28
+110,Y56,RJ2,Lewisham and Greenwich NHS Trust,Computerized Axial Tomography,0,0,0,1,1,0,0,1,0,0,0,1,0
+111,Y56,RJ2,Lewisham and Greenwich NHS Trust,Diagnostic Ultrasonography,17,14,13,11,21,28,30,25,29,30,23,25,22
+112,Y56,RJ2,Lewisham and Greenwich NHS Trust,Fluoroscopy,1,1,5,3,8,14,11,8,7,9.5,4,6,6
+113,Y56,RJ2,Lewisham and Greenwich NHS Trust,Magnetic Resonance Imaging,6,3,6,9,25,10,10,6,6,6,8,12,8
+114,Y56,RJ2,Lewisham and Greenwich NHS Trust,Nuclear Medicine Procedure,5,6,4,7,12,13,14,13,7,11,10.5,11,11
+115,Y56,RJ2,Lewisham and Greenwich NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,Y56,RJ2,Lewisham and Greenwich NHS Trust,Positron Emission Tomography,.,.,.,.,.,.,.,.,.,0,.,.,0
+117,Y56,RJ2,Lewisham and Greenwich NHS Trust,Single Photon Emission Computerized Tomography,3.5,5,2,6,10,8,5,6,3,6,5,7,6
+118,Y56,R1K,London North West University Healthcare NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,Y56,R1K,London North West University Healthcare NHS Trust,Diagnostic Ultrasonography,8,6,7,17,18,9,9,9,9,10,8,11,10
+120,Y56,R1K,London North West University Healthcare NHS Trust,Fluoroscopy,0,0,0,0,0,1,1,0,0,1,0,0,0
+121,Y56,R1K,London North West University Healthcare NHS Trust,Magnetic Resonance Imaging,3,7,9,25,29,27.5,20,16,17,19,15,18,18
+122,Y56,R1K,London North West University Healthcare NHS Trust,Nuclear Medicine Procedure,15,70,78.5,50,33,18,19,23,20,28,16.5,16,22
+123,Y56,R1K,London North West University Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,Y56,R1K,London North West University Healthcare NHS Trust,Positron Emission Tomography,.,.,.,.,.,.,*,.,.,.,.,.,*
+125,Y56,R1K,London North West University Healthcare NHS Trust,Single Photon Emission Computerized Tomography,.,.,.,.,*,67,26.5,*,32,29,31,.,30
+126,Y56,RP6,Moorfields Eye Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,Y56,RP6,Moorfields Eye Hospital NHS Foundation Trust,Diagnostic Ultrasonography,0,0,0,0,0,0,0,0,0,0,0,0,0
+128,Y56,RP6,Moorfields Eye Hospital NHS Foundation Trust,Fluoroscopy,.,.,.,.,3,0,*,3.5,31,46.5,.,14,3
+129,Y56,RP6,Moorfields Eye Hospital NHS Foundation Trust,Magnetic Resonance Imaging,34,15,28,22,33,21,21,30,26,32.5,36,33,26
+130,Y56,RP6,Moorfields Eye Hospital NHS Foundation Trust,Nuclear Medicine Procedure,.,.,.,.,.,.,*,64.5,*,.,99,18,64.5
+131,Y56,RP6,Moorfields Eye Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,Y56,RAP,North Middlesex University Hospital NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,Y56,RAP,North Middlesex University Hospital NHS Trust,Diagnostic Ultrasonography,1,1,1,2,12,13,8,12,14,3,2,7,5
+134,Y56,RAP,North Middlesex University Hospital NHS Trust,Fluoroscopy,0,1,1,0,0,0,0,0,0,0,0,1.5,0
+135,Y56,RAP,North Middlesex University Hospital NHS Trust,Magnetic Resonance Imaging,1,1,1,6,12,15,9,13,15,4,7,9,8
+136,Y56,RAP,North Middlesex University Hospital NHS Trust,Nuclear Medicine Procedure,5,5,3,2,4,11,8,6,8,8,7,6,6
+137,Y56,RAP,North Middlesex University Hospital NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,Y56,RAP,North Middlesex University Hospital NHS Trust,Positron Emission Tomography,.,.,.,.,.,.,.,.,.,.,.,*,*
+139,Y56,RAP,North Middlesex University Hospital NHS Trust,Single Photon Emission Computerized Tomography,*,*,4,3.5,4.5,12,7,5,7,8,7,4,6
+140,Y56,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,*,.,*,.,.,16,.,34,.,*,*,*,16
+141,Y56,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,.,.,*,7,11,6,22,10,20,13,8.5,13,13
+142,Y56,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,.,.,.,.,*,0,0,0,0,.,0,0,0
+143,Y56,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,4,61,79,21,21,34.5,45.5,41,35,33,17.5,17.5,29.5
+144,Y56,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,.,.,*,0,2,0,0,0,0,0,0,0,0
+145,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Computerized Axial Tomography,.,.,.,.,.,.,.,.,.,.,.,.,.
+146,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Diagnostic Ultrasonography,2,2,8,15,19.5,20,19,20,17,3.5,.,.,16
+147,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Fluoroscopy,1,3,7,9,14,13,8,12,7,3,.,.,7
+148,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Magnetic Resonance Imaging,1.5,7,7,13,23,22.5,30,35.5,41.5,35,.,.,26
+149,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Nuclear Medicine Procedure,8,9,9,16,30,35,41.5,48,51,54,.,.,29
+150,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Plain Radiography,.,.,.,.,.,0,.,.,.,.,.,.,0
+151,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Positron Emission Tomography,.,.,.,.,.,.,.,.,.,.,.,.,.
+152,Y56,RT3,Royal Brompton & Harefield NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,*,7,9,8,12.5,10,19,14,8,.,.,9
+153,Y56,RAL,Royal Free London NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,1,1,1,0,0,0,0,0
+154,Y56,RAL,Royal Free London NHS Foundation Trust,Diagnostic Ultrasonography,7,6,7,9,15,20,14,9,10,10,7,7,9
+155,Y56,RAL,Royal Free London NHS Foundation Trust,Fluoroscopy,0,0,1,0,0,0,1,0,1,0,0,0,0
+156,Y56,RAL,Royal Free London NHS Foundation Trust,Magnetic Resonance Imaging,7,4,7,11,21,28,20,20,17,17,10,10,14
+157,Y56,RAL,Royal Free London NHS Foundation Trust,Nuclear Medicine Procedure,5,6,11,9.5,12,13,12,13,13,15,10,12,12
+158,Y56,RAL,Royal Free London NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,Y56,RAL,Royal Free London NHS Foundation Trust,Positron Emission Tomography,6,8,10,9,12,12,7,7,8,9,8,8,9
+160,Y56,RAL,Royal Free London NHS Foundation Trust,Single Photon Emission Computerized Tomography,6,8,13,15,25,11,12.5,7,15,13.5,8,11,12
+161,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Computerized Axial Tomography,5,6,12,21,18,13,14,15,14.5,11,11,18.5,13
+162,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Diagnostic Ultrasonography,6,4,4,9.5,24,31,33,30,17,9,12,69,18
+163,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Fluoroscopy,0,0,14.5,76,90,115,75.5,51,54,30,22,98,59.5
+164,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Magnetic Resonance Imaging,7,6,28,87,69,41,29,30,27,21,21,23,29
+165,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Nuclear Medicine Procedure,41,.,.,*,.,*,148,.,.,*,*,.,41
+166,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Plain Radiography,0,0,1,2,3,4,3,4,4,4,6,4,3
+167,Y56,RAN,Royal National Orthopaedic Hospital NHS Trust,Single Photon Emission Computerized Tomography,50,14,114.5,107.5,39,49,119,201,117,125,158,147,105
+168,Y56,RV5,South London and Maudsley NHS Foundation Trust,Magnetic Resonance Imaging,42.5,65,35,20,21,25,23,21,17,33,21,46,26
+169,Y56,NT3,Spire Healthcare,Computerized Axial Tomography,4,6,8,11,12.5,16,14.5,13,14,6,4,5.5,7
+170,Y56,NT3,Spire Healthcare,Diagnostic Ultrasonography,34,5,77,10.5,6.5,178.5,27,20,21,23,12,18,21
+171,Y56,NT3,Spire Healthcare,Fluoroscopy,0,.,*,*,*,0,1,1,1,1,1,1,1
+172,Y56,NT3,Spire Healthcare,Magnetic Resonance Imaging,3,6,14,8.5,16,11,21,27,23,27.5,20,24,22
+173,Y56,NT3,Spire Healthcare,Plain Radiography,0,*,0,16,0,0,0,0,0,0,0,0,0
+174,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,1,1,0,1,0,0,0,0,0
+175,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,0,6,7,11,22,30,25,21,21,28,18,14,19
+176,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,37,14,5,7,9,12,13,15,16,18,12,14,12
+178,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,14,8,15,20,20,18,16,19,17,20,17,17,18
+179,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+180,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Positron Emission Tomography,11,7,7,8.5,8,8,9,8,9,7.5,10,7,8
+181,Y56,RJ7,St George's University Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,30,10,28,21,20,24,21,21,18.5,21.5,24,21,21
+182,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,1,1,1,1,1,3,3,3,3,3,1,3,1
+184,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Fluoroscopy,2,3,5,4,7,11,4.5,6,28,9,16,13.5,7
+185,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,2,2,3,11,13.5,14,21,25,23.5,40,20,22,17
+186,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,3.5,7.5,26.5,120,19,18,16,12,10,21,17,18,17
+187,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+188,Y56,RAS,The Hillingdon Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,100,118,35,23,16,11.5,8,21,23,24,22
+189,Y56,RPY,The Royal Marsden NHS Foundation Trust,Computerized Axial Tomography,19,22,28,25,21,23,19,21,23,29,22,21,22
+190,Y56,RPY,The Royal Marsden NHS Foundation Trust,Diagnostic Ultrasonography,1,1,2,1,1,1,1,0,0,1,1,0,1
+191,Y56,RPY,The Royal Marsden NHS Foundation Trust,Fluoroscopy,2,2,3,2,1,7,3,9,3,4,4,6,4
+192,Y56,RPY,The Royal Marsden NHS Foundation Trust,Magnetic Resonance Imaging,20,39,32,27,26.5,29,19,23,21.5,28,22,23,25
+193,Y56,RPY,The Royal Marsden NHS Foundation Trust,Nuclear Medicine Procedure,20,11,11,10,8,8,9,9,10,11,9,10,9
+194,Y56,RPY,The Royal Marsden NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,Y56,RPY,The Royal Marsden NHS Foundation Trust,Positron Emission Tomography,11,7,7,6,7,7,7,7,8,8,7,7,7
+196,Y56,RPY,The Royal Marsden NHS Foundation Trust,Single Photon Emission Computerized Tomography,7,9,11,21,15.5,12,18,11,15.5,20,12,13.5,14
+197,Y56,RRV,University College London Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+198,Y56,RRV,University College London Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,Y56,RRV,University College London Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+200,Y56,RRV,University College London Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,0,0,0,0,0,0,0,0,0,0,0,0,0
+201,Y56,RRV,University College London Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,Y56,RRV,University College London Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,Y56,RRV,University College London Hospitals NHS Foundation Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,Y56,RRV,University College London Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,Y56,RKE,Whittington Health NHS Trust,Computerized Axial Tomography,.,.,.,.,.,.,.,.,.,.,.,.,.
+206,Y56,RKE,Whittington Health NHS Trust,Diagnostic Ultrasonography,.,.,.,.,.,.,.,.,.,.,.,.,.
+207,Y56,RKE,Whittington Health NHS Trust,Fluoroscopy,.,.,.,.,.,.,.,.,.,.,.,.,.
+208,Y56,RKE,Whittington Health NHS Trust,Magnetic Resonance Imaging,.,.,.,.,.,.,.,.,.,.,.,.,.
+209,Y56,RKE,Whittington Health NHS Trust,Nuclear Medicine Procedure,.,.,.,.,.,.,.,.,.,.,.,.,.
+210,Y56,RKE,Whittington Health NHS Trust,Plain Radiography,.,.,.,.,.,.,.,.,.,.,.,.,.
+211,Y56,RKE,Whittington Health NHS Trust,Positron Emission Tomography,.,.,.,.,.,.,.,.,.,.,.,.,.
+212,Y56,RKE,Whittington Health NHS Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,.,.,.,.,.,.,.
+213,Y58,NT9,Alliance Medical,Computerized Axial Tomography,.,.,.,.,.,.,.,.,*,1,.,*,3
+214,Y58,NT9,Alliance Medical,Magnetic Resonance Imaging,6,13,15,20,21,26,26,32,37,46.5,44.5,36,29
+215,Y58,NT9,Alliance Medical,Nuclear Medicine Procedure,.,.,.,.,.,.,.,.,.,*,.,.,*
+216,Y58,NT9,Alliance Medical,Positron Emission Tomography,9,7,9,9,9,13,14,14,13,12,8,8,11
+217,Y58,NT4,BMI Healthcare,Computerized Axial Tomography,6,10,4,18,22,13,21,24,34,6,16,34,15
+218,Y58,NT4,BMI Healthcare,Diagnostic Ultrasonography,3,1,1,6,1,4,4,4,5,10,10.5,13.5,4
+219,Y58,NT4,BMI Healthcare,Fluoroscopy,1,0,1.5,7.5,1.5,0.5,*,0,.,0,*,19,1
+220,Y58,NT4,BMI Healthcare,Magnetic Resonance Imaging,3,2,2,3,13.5,12,20,24,20,34,21,15.5,13
+221,Y58,NT4,BMI Healthcare,Plain Radiography,0,1,1,1,1,1,0,0,0,0,0,0,1
+222,Y58,NV3,Circle,Computerized Axial Tomography,*,.,2,5,11,4,6,2.5,9,8,7,8.5,7
+223,Y58,NV3,Circle,Diagnostic Ultrasonography,.,.,7,5,7,11,7,9.5,5,10,5,14,7
+224,Y58,NV3,Circle,Fluoroscopy,.,.,.,.,*,.,.,.,.,14,*,1,7
+225,Y58,NV3,Circle,Magnetic Resonance Imaging,.,*,4,10,18,22.5,16,14,16,21,14,8,14
+226,Y58,NV3,Circle,Plain Radiography,1,*,0,0,0,0,0,0,1,0,0,0,0
+227,Y58,AC7,Cobalt Health,Computerized Axial Tomography,3,6,6,14,31,5,3,3,3,3,3,5,5
+228,Y58,AC7,Cobalt Health,Diagnostic Ultrasonography,.,.,.,.,.,.,.,.,.,*,.,.,*
+229,Y58,AC7,Cobalt Health,Magnetic Resonance Imaging,10.5,13,15,7,10,15,17.5,21,21,16,13,11,15
+230,Y58,AC7,Cobalt Health,Plain Radiography,*,.,.,.,.,*,*,.,.,.,.,*,21
+231,Y58,AC7,Cobalt Health,Positron Emission Tomography,3,6,6,6.5,7,8,9,8,9,8,8,5,7
+232,Y58,RBD,Dorset County Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,2,1,1,1,1,1,1
+233,Y58,RBD,Dorset County Hospital NHS Foundation Trust,Diagnostic Ultrasonography,10,9,14,11,14,15,15,23,21,21,21,15,15
+234,Y58,RBD,Dorset County Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,4,1,1.5,1,1,1,1,3.5,1,1
+235,Y58,RBD,Dorset County Hospital NHS Foundation Trust,Magnetic Resonance Imaging,6,10.5,16,14,12,15,15,14,16,26,12,22,14
+236,Y58,RBD,Dorset County Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,Y58,RBD,Dorset County Hospital NHS Foundation Trust,Positron Emission Tomography,6,5,6,6,7,7,13,13,13,13,9,8,9
+238,Y58,RDY,Dorset Healthcare University NHS Foundation Trust,Diagnostic Ultrasonography,5,63,85,19,13,17,23,27,26,32,14.5,21,22
+239,Y58,RDY,Dorset Healthcare University NHS Foundation Trust,Plain Radiography,0,0,.,0,2,6,4,4,5,3,4,5,3
+240,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Computerized Axial Tomography,1,0,0,1,1,1,1,1,1,1,1,1,1
+241,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,14,10,13,13,17,20,17,18,20,18,16,17,15
+242,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,5.5,4,5,11,21,21,22,22,23,26.5,19,21,17
+244,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,8.5,8,27,21,18,16,15,16,15,16.5,16.5,18,16
+245,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Positron Emission Tomography,5,5,5,0,6,6,3,3,3.5,2,0,3,3
+247,Y58,RTE,Gloucestershire Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,8,27.5,29,17.5,17,16.5,15,18.5,15,14,12,22,15
+248,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,1,1,1,2,1,1,1,1,1
+249,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,7,5,5,7,11,11,9,13,13,15,14,15,11
+250,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Fluoroscopy,0,1,1,4,9,8,8,8,7.5,6,8,4,6
+251,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,4.5,7,11,10.5,12,12,11,11,13,26,31,21,13
+252,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,7,6.5,12,12,13,25,20.5,17.5,20,20.5,15.5,25.5,17
+253,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+254,Y58,RN3,Great Western Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,*,.,.,.,.,.,.,.,.,.,*
+255,Y58,RVJ,North Bristol NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,1,0,1,1,1,0
+256,Y58,RVJ,North Bristol NHS Trust,Diagnostic Ultrasonography,5,3,16,18,22,28,30,31,27,56,50,41,25
+257,Y58,RVJ,North Bristol NHS Trust,Fluoroscopy,0,0,0,1,1,1,1,1,1,1,1,1,1
+258,Y58,RVJ,North Bristol NHS Trust,Magnetic Resonance Imaging,5,6,21,21,18,17,16,18,19,21,14,13,16
+259,Y58,RVJ,North Bristol NHS Trust,Nuclear Medicine Procedure,14,14,19,29.5,30.5,29,20.5,21,20,15,17,23,20
+260,Y58,RVJ,North Bristol NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,Y58,RVJ,North Bristol NHS Trust,Single Photon Emission Computerized Tomography,*,2,2,2,1,23,1,1.5,1,1.5,27,2,2
+262,Y58,RBZ,Northern Devon Healthcare NHS Trust,Computerized Axial Tomography,0,0,0,1,2,1,2,1,1,1,6,2,1
+263,Y58,RBZ,Northern Devon Healthcare NHS Trust,Diagnostic Ultrasonography,0,0,1,6,1,2,3,3,1,5,1,3,2
+264,Y58,RBZ,Northern Devon Healthcare NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,Y58,RBZ,Northern Devon Healthcare NHS Trust,Magnetic Resonance Imaging,10,2.5,17,16,22,18,17,11,9,9,13,15,13
+266,Y58,RBZ,Northern Devon Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,Y58,NT2,Nuffield Health,Computerized Axial Tomography,.,6,7,14,12,20,24,24,35,*,7,16,13
+268,Y58,NT2,Nuffield Health,Diagnostic Ultrasonography,.,.,*,15,11,22,*,29,9.5,11,18.5,21.5,17
+269,Y58,NT2,Nuffield Health,Fluoroscopy,.,.,.,*,7,.,*,.,*,.,.,31,7
+270,Y58,NT2,Nuffield Health,Magnetic Resonance Imaging,.,5,7,14,12,14,12,11,11,6,6.5,7,11
+271,Y58,NT2,Nuffield Health,Nuclear Medicine Procedure,.,.,.,.,.,.,.,.,.,.,.,*,*
+272,Y58,NT2,Nuffield Health,Plain Radiography,*,.,*,6.5,1,1,1,0,2,0,1,1,1
+273,Y58,RD3,Poole Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,.,.,.,.,.,.,0
+274,Y58,RD3,Poole Hospital NHS Foundation Trust,Diagnostic Ultrasonography,10,7,10,11,14,13,.,.,.,.,.,.,11
+275,Y58,RD3,Poole Hospital NHS Foundation Trust,Fluoroscopy,0,0,6,0,0,0,.,.,.,.,.,.,0
+276,Y58,RD3,Poole Hospital NHS Foundation Trust,Magnetic Resonance Imaging,3,8,9,14,12,15,.,.,.,.,.,.,11
+277,Y58,RD3,Poole Hospital NHS Foundation Trust,Nuclear Medicine Procedure,8,55,14,15,14,14.5,.,.,.,.,.,.,14
+278,Y58,RD3,Poole Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,.,.,.,.,.,.,0
+279,Y58,RD3,Poole Hospital NHS Foundation Trust,Positron Emission Tomography,7,7,8,8,11,12,.,.,.,.,.,.,9
+280,Y58,RD3,Poole Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,51,53,2,11,20,17,.,.,.,.,.,.,17
+281,Y58,NTP,Practice Plus Group,Diagnostic Ultrasonography,1,1,3,6,7,6,6,4,6,7,7,8,6
+282,Y58,NTP,Practice Plus Group,Magnetic Resonance Imaging,1,4,6,5.5,8,9,7,9.5,8,9,8,5,7
+283,Y58,NTP,Practice Plus Group,Plain Radiography,0,0,0,1,0,0,0,0,0,0,0,0,0
+284,Y58,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,12,7,6,13,16,12,17,13,15,18,30,24,12
+285,Y58,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,7.5,7,11,15,15,19,14,19,18,14,11,14,14
+286,Y58,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,1,1,1,1,1,1,1,1,1,3,1,1,1
+287,Y58,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,4,2,8,9,6,12,12,7,7,6,11,10,7
+288,Y58,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,4,0,0,1,1,1,2,1,1,1,1,1,1
+289,Y58,REF,Royal Cornwall Hospitals NHS Trust,Computerized Axial Tomography,0,1,1,5,6,2,1,7,3,3,6,7,2
+290,Y58,REF,Royal Cornwall Hospitals NHS Trust,Diagnostic Ultrasonography,8,7,8,11,11,9,12,13,9,12,14,14,11
+291,Y58,REF,Royal Cornwall Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Y58,REF,Royal Cornwall Hospitals NHS Trust,Magnetic Resonance Imaging,25,64,26,24,28,27,26,32,35,38,35,36,31
+293,Y58,REF,Royal Cornwall Hospitals NHS Trust,Nuclear Medicine Procedure,27,46,21,18,24,30,31,29,33,30,27,27.5,27
+294,Y58,REF,Royal Cornwall Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,Y58,REF,Royal Cornwall Hospitals NHS Trust,Positron Emission Tomography,.,.,.,.,.,.,.,.,.,.,.,6,6
+296,Y58,REF,Royal Cornwall Hospitals NHS Trust,Single Photon Emission Computerized Tomography,25,101,36,25,24,44,35.5,36,28,28,19,27,31
+297,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Computerized Axial Tomography,0,1,1,1,1,1,1,1,0,1,1,1,1
+298,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Diagnostic Ultrasonography,1,1,5,8,9,9,10,10,9,13,10,11,8
+299,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Fluoroscopy,6,4,8,8,19,23,14,14,9,13,9,8,11
+300,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Magnetic Resonance Imaging,7,16,24,15,12,13,13,12,13,16,19,14,14
+301,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Nuclear Medicine Procedure,7,8,12,13,14,15,12,14,11.5,15,13,15,13
+302,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Positron Emission Tomography,11.5,7,9,12,12,14,17,12,9,8,6,6,11
+304,Y58,RH8,Royal Devon and Exeter NHS Foundation Trust,Single Photon Emission Computerized Tomography,17,9.5,16,12,12.5,15,14,20,21.5,31,24.5,14,17
+305,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,3,3,1,1,1,1,1
+306,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Diagnostic Ultrasonography,19,9,14,20,19,20,27,33,25,25,27,28,23
+307,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,1,0.5,0,0
+308,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Magnetic Resonance Imaging,6,3,12,20,62,72,50.5,36,26,37,32,29,25
+309,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Nuclear Medicine Procedure,8,51,37,23.5,20,24,19,25,19,28,28,20,24
+310,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Positron Emission Tomography,8,7,7,8,7,7,13,21.5,21,20,8,7,11
+312,Y58,RD1,Royal United Hospitals Bath NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,49,35,54,70.5,68,56,61,58.5,29,28,55
+313,Y58,RNZ,Salisbury NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,4,5,5,2,1,3,1
+314,Y58,RNZ,Salisbury NHS Foundation Trust,Diagnostic Ultrasonography,1,1,3,2,5,3,3,3,7,7,7,3,3
+315,Y58,RNZ,Salisbury NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,Y58,RNZ,Salisbury NHS Foundation Trust,Magnetic Resonance Imaging,27,9,6,10,15,15,14,11,15,23,19,22,14
+317,Y58,RNZ,Salisbury NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+318,Y58,RNZ,Salisbury NHS Foundation Trust,Nuclear Medicine Procedure,8,12.5,10.5,12,13,12,11,14,13,13,13,13,12
+319,Y58,RNZ,Salisbury NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,Y58,RH5,Somerset NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,1,1,2,1,1,1,1,1,1
+321,Y58,RH5,Somerset NHS Foundation Trust,Diagnostic Ultrasonography,6,3,4,6,7,9,10,12,11,8,7,8,7
+322,Y58,RH5,Somerset NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,Y58,RH5,Somerset NHS Foundation Trust,Magnetic Resonance Imaging,2,5,6,9,9,14,19,21,26,19,15,14,13
+324,Y58,RH5,Somerset NHS Foundation Trust,Nuclear Medicine Procedure,8.5,11,11,32,139.5,25,16,21.5,19,20,18,27,21
+325,Y58,RH5,Somerset NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+326,Y58,NT3,Spire Healthcare,Computerized Axial Tomography,2,.,.,.,.,*,.,*,*,1,6,5,4
+327,Y58,NT3,Spire Healthcare,Diagnostic Ultrasonography,.,.,.,125,23.5,24,*,22,*,14,15,3,18
+328,Y58,NT3,Spire Healthcare,Fluoroscopy,.,.,.,*,*,*,0,*,*,34,1,1,1
+329,Y58,NT3,Spire Healthcare,Magnetic Resonance Imaging,.,.,*,*,*,51,26,40,43,3,6,6,6
+330,Y58,NT3,Spire Healthcare,Plain Radiography,0,*,*,0,0,0,0,0,1,0,0,0,0
+331,Y58,RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,.,.,.,.,.,.,0
+332,Y58,RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,16,19,12,14,17,18,.,.,.,.,.,.,14
+333,Y58,RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Fluoroscopy,0,1,3,2,2,2,.,.,.,.,.,.,1
+334,Y58,RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,26,5,4,7,8,10,.,.,.,.,.,.,8
+335,Y58,RDZ,The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,.,.,.,.,.,.,0
+336,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,0,0,1,1,1,1
+337,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Diagnostic Ultrasonography,8,6,6,9,10,11,11,10,13,11,9,12,9
+338,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Magnetic Resonance Imaging,8,9,12,12,8,6,8,10,17,17,21,16,11
+340,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Nuclear Medicine Procedure,12,10,11,15,21,21,16,18,16,20,13,8,16
+341,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Positron Emission Tomography,12.5,12.5,7,10,8,14,15,11,15,15,13,9,12
+343,Y58,RA9,Torbay and South Devon NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,139,48,39,29,*,*,69,.,.,55
+344,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,1,1,1,1,1,1,1,1,0
+345,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Diagnostic Ultrasonography,5,4,6,11,14,15,14,19,18,21,15,17,14
+346,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Magnetic Resonance Imaging,8,7,12,20,29,32,36,35,28,30,23,20,26
+348,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Nuclear Medicine Procedure,37,23,29,41,36,30,42,36,28,40,35,38,36
+349,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,Y58,RA7,University Hospitals Bristol and Weston NHS Foundation Trust,Single Photon Emission Computerized Tomography,15,19.5,45,25,24,41,27,29,41,29,24.5,23,28
+352,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Computerized Axial Tomography,.,.,.,.,.,.,0,0,0,0,0,0,0
+353,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Diagnostic Ultrasonography,.,.,.,.,.,.,13,11,13,14,13,14,13
+354,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Fluoroscopy,.,.,.,.,.,.,1,1,0,0,1,0,1
+355,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Magnetic Resonance Imaging,.,.,.,.,.,.,10,11,12,10,9,11,10
+356,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Nuclear Medicine Procedure,.,.,.,.,.,.,15,16,14,18,14,23,17
+357,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Plain Radiography,.,.,.,.,.,.,0,0,0,0,0,0,0
+358,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Positron Emission Tomography,.,.,.,.,.,.,14,14,14,14,11,12,14
+359,Y58,R0D,University Hospitals Dorset NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,18,19,11.5,20,14.5,18.5,17
+360,Y58,RK9,University Hospitals Plymouth NHS Trust,Computerized Axial Tomography,0,1,1,1,1,1,2,1,1,1,0,0,1
+361,Y58,RK9,University Hospitals Plymouth NHS Trust,Diagnostic Ultrasonography,1,1,1,1,1,2,2,2,2,2,2,2,1
+362,Y58,RK9,University Hospitals Plymouth NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,Y58,RK9,University Hospitals Plymouth NHS Trust,Magnetic Resonance Imaging,13,29,19,32,28,29.5,29,34,35,33,39,35,31
+364,Y58,RK9,University Hospitals Plymouth NHS Trust,Nuclear Medicine Procedure,14,7,12,49,28,35,25,23,19,41,34,34,28
+365,Y58,RK9,University Hospitals Plymouth NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,Y58,RK9,University Hospitals Plymouth NHS Trust,Positron Emission Tomography,13,9,9,10,7,15,14,9,13,14,15,10,12
+367,Y58,RK9,University Hospitals Plymouth NHS Trust,Single Photon Emission Computerized Tomography,0,0,1,1,1,2,1,1,0,1,1,1,1
+368,Y58,RA4,Yeovil District Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,1,1,1,1,1,1
+369,Y58,RA4,Yeovil District Hospital NHS Foundation Trust,Diagnostic Ultrasonography,3,2,1,1,1,3,2,1,2,1,2,3,2
+370,Y58,RA4,Yeovil District Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,Y58,RA4,Yeovil District Hospital NHS Foundation Trust,Magnetic Resonance Imaging,2,3,9,7,7,10,11,12,14,18,14,11,10
+372,Y58,RA4,Yeovil District Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,Y58,RA4,Yeovil District Hospital NHS Foundation Trust,Positron Emission Tomography,12,10.5,12,12,8.5,15,17.5,13,8,8,11,6.5,12
+374,Y59,NT9,Alliance Medical,Computerized Axial Tomography,.,.,.,.,.,.,*,.,.,0,.,.,0
+375,Y59,NT9,Alliance Medical,Magnetic Resonance Imaging,4,6,11,14,15,13,11,13,11,12,9,11,11
+376,Y59,NT9,Alliance Medical,Nuclear Medicine Procedure,.,*,.,.,.,*,.,.,.,.,.,.,*
+377,Y59,NT9,Alliance Medical,Plain Radiography,.,*,*,*,*,.,*,.,.,.,*,*,18
+378,Y59,NT9,Alliance Medical,Positron Emission Tomography,7,10,13,13,14,14,11,8,11,14,12,12,12
+379,Y59,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,0,0,0,0,0,0
+380,Y59,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,0,1,3,3,4,7,7,14.5,9,12,11,12,6
+381,Y59,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,1,1,2,1,1,1,2,3,2,1
+382,Y59,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,3,6,11,14,12,11,10,10,11,10,11,13,11
+383,Y59,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,.,*,.,.,.,.,.,.,.,.,.,*,*
+384,Y59,RTK,Ashford and St Peter's Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,Y59,NT4,BMI Healthcare,Computerized Axial Tomography,3,8,6,7,11,7,6.5,7,8,6,14,6,7
+386,Y59,NT4,BMI Healthcare,Diagnostic Ultrasonography,0,0,1,5,8,7,5,7.5,4,6,5,7,5
+387,Y59,NT4,BMI Healthcare,Fluoroscopy,.,6,6,9,6,2.5,0,0,0,*,*,*,1
+388,Y59,NT4,BMI Healthcare,Magnetic Resonance Imaging,5,8,22,14,12,1,2,3,4,5,8,3,6
+389,Y59,NT4,BMI Healthcare,Plain Radiography,0,0,0,1,4,1,2,1,1,1,2,6,1
+390,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,1,0,0,0,0,0
+391,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Diagnostic Ultrasonography,5,5,14,14,15,16,16,18.5,21,22,13,17,15
+392,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Fluoroscopy,0,0,0,0,2,2,1,1,0,3,2,1,1
+393,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Magnetic Resonance Imaging,2,8,35,32,28,25,19,17,15,22,14,16,20
+394,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Nuclear Medicine Procedure,17,51,82,69,36.5,32,34,35,26,33,27,28,32
+395,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Positron Emission Tomography,.,.,.,7,7,9,11,9,11.5,15,12,11,11
+397,Y59,RXH,Brighton and Sussex University Hospitals NHS Trust,Single Photon Emission Computerized Tomography,8,6,80.5,50,28,20,27,29,27.5,33,19.5,21.5,28
+398,Y59,RXQ,Buckinghamshire Healthcare NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,Y59,RXQ,Buckinghamshire Healthcare NHS Trust,Diagnostic Ultrasonography,11,8,8,7,8,12,9,12,12,11,8,8,9
+400,Y59,RXQ,Buckinghamshire Healthcare NHS Trust,Fluoroscopy,0,0,0,0,1,0,0,0,0,1,1,0,0
+401,Y59,RXQ,Buckinghamshire Healthcare NHS Trust,Magnetic Resonance Imaging,0,1,2,3,6,9,6,9,9,7,7,5,6
+402,Y59,RXQ,Buckinghamshire Healthcare NHS Trust,Nuclear Medicine Procedure,5.5,5,9,17,21,20,15,17.5,14,16,14,16,15
+403,Y59,RXQ,Buckinghamshire Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,Y59,NV3,Circle,Computerized Axial Tomography,*,.,.,.,.,.,0,.,0,.,.,.,0
+405,Y59,NV3,Circle,Diagnostic Ultrasonography,*,*,4,8.5,11,9,7,9,7,4,4,6,7
+406,Y59,NV3,Circle,Fluoroscopy,*,*,*,11.5,3,1,1,3,0,0,0,0,0
+407,Y59,NV3,Circle,Magnetic Resonance Imaging,16.5,3,10,22,16,20,31,31.5,27,7,7,5,13
+408,Y59,NV3,Circle,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,Y59,NTV,CSH Surrey,Plain Radiography,0,1,2,2,3,1,1,1,1,1,2,6,1
+410,Y59,RN7,Dartford and Gravesham NHS Trust,Computerized Axial Tomography,0,0,0,1,0,1,1,1,1,0,0,1,1
+411,Y59,RN7,Dartford and Gravesham NHS Trust,Diagnostic Ultrasonography,21,11,11.5,19,24,23,22,15,14,14,13,14,15
+412,Y59,RN7,Dartford and Gravesham NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,Y59,RN7,Dartford and Gravesham NHS Trust,Magnetic Resonance Imaging,14,11,13,14,17,13,15,22,24,31,17,15,16
+414,Y59,RN7,Dartford and Gravesham NHS Trust,Nuclear Medicine Procedure,5,48,34,47.5,32.5,29,24,29,26,33,19,25,27
+415,Y59,RN7,Dartford and Gravesham NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,Y59,RN7,Dartford and Gravesham NHS Trust,Positron Emission Tomography,.,.,*,*,.,0,*,*,.,.,*,*,0
+417,Y59,RN7,Dartford and Gravesham NHS Trust,Single Photon Emission Computerized Tomography,5,5,13,126,164,57.5,31,26,34,30,19,19,29.5
+418,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,9,2,1,1,1,2,1
+419,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Diagnostic Ultrasonography,18,11,11,14,15,17,28,20,15,14,13,13,15
+420,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Magnetic Resonance Imaging,10,3,12,20,22,28,23,17,16,18,13,13,16
+422,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Nuclear Medicine Procedure,9,7.5,11,26,32.5,40,39,32.5,34,37,27,24,27
+423,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+424,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Positron Emission Tomography,7,10,10,7,9,11,9,8,8,9,10,11,9
+425,Y59,RVV,East Kent Hospitals University NHS Foundation Trust,Single Photon Emission Computerized Tomography,46,*,19,23,14.5,23,12,9,9,*,7.5,17,17
+426,Y59,RXC,East Sussex Healthcare NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,3,1,1,2,3,1
+427,Y59,RXC,East Sussex Healthcare NHS Trust,Diagnostic Ultrasonography,11,9,15,14,14,15,15,16,14,19,13,14,14
+428,Y59,RXC,East Sussex Healthcare NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,Y59,RXC,East Sussex Healthcare NHS Trust,Magnetic Resonance Imaging,7,27,42,34,24,17.5,15,12,18,25,24,22,20
+430,Y59,RXC,East Sussex Healthcare NHS Trust,Nuclear Medicine Procedure,13,51.5,34,31,22,32,28,24,22,27,18,19,24
+431,Y59,RXC,East Sussex Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,Y59,RXC,East Sussex Healthcare NHS Trust,Single Photon Emission Computerized Tomography,7.5,8,11,7.5,14,22.5,20,13.5,12,8,7,8,12
+433,Y59,NVM,Epsomedical Group,Diagnostic Ultrasonography,5,1,14,13.5,13,11,12,13,13,18,14,13,13
+434,Y59,NVM,Epsomedical Group,Plain Radiography,.,.,12,13,6,6,6.5,6,7,12,10.5,12,8
+435,Y59,RDU,Frimley Health NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+436,Y59,RDU,Frimley Health NHS Foundation Trust,Diagnostic Ultrasonography,7,7,9,9,11,14,16,14,14,10,12,14,13
+437,Y59,RDU,Frimley Health NHS Foundation Trust,Fluoroscopy,1,1,1,1,1,3,3,4,3,2,3,2,2
+438,Y59,RDU,Frimley Health NHS Foundation Trust,Magnetic Resonance Imaging,2,5,6,5,6,5,7,8,8,6,5,6,6
+439,Y59,RDU,Frimley Health NHS Foundation Trust,Nuclear Medicine Procedure,7,6,13,13,13,17,16,18.5,21,18,8,15,14
+440,Y59,RDU,Frimley Health NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,Y59,RDU,Frimley Health NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,96,25.5,26,28,34.5,35,30,35,35,35,33
+442,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,2,1,1,1,1,3,1,1,1,1,1
+443,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,12,14,10,12,12,13,11,12,13,14,14,13,13
+444,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,7,36,29,19,17,13,11,13,13,21.5,18,20,16
+446,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,25,13.5,19,28,77,20,15,10,13,14,16,13.5,15
+447,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,Y59,RN5,Hampshire Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,59,4,16.5,70.5,0,12.5,15,8.5,13,14,16,13.5,14
+450,Y59,NV1,InHealth Limited,Computerized Axial Tomography,20.5,.,.,.,.,.,29,37,29,23,*,31,29
+451,Y59,NV1,InHealth Limited,Diagnostic Ultrasonography,29,11,18,22,25,20,23,20,23,27,24,28,24
+452,Y59,NV1,InHealth Limited,Magnetic Resonance Imaging,22,72,33,40,61,65,32,46,48,66,72,67.5,58
+453,Y59,NV1,InHealth Limited,Plain Radiography,*,.,.,.,.,.,*,*,*,*,*,.,27
+454,Y59,R1F,Isle of Wight NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,0,0,0,0,0,0
+455,Y59,R1F,Isle of Wight NHS Trust,Diagnostic Ultrasonography,1,3,2,8,7,7.5,7,14,7,8,7,8,7
+456,Y59,R1F,Isle of Wight NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,Y59,R1F,Isle of Wight NHS Trust,Magnetic Resonance Imaging,7,7,6,14,10,12,10,7,14,14,8,7,10
+458,Y59,R1F,Isle of Wight NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Computerized Axial Tomography,1,2,5,7,5,4,7,5,6,5,4,6,5
+460,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Diagnostic Ultrasonography,8,6,11,13,14,14,13,15,14,17,15,13,13
+461,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Fluoroscopy,7,6,10,9,13,13,12,11.5,9,9,8,9,9
+462,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Magnetic Resonance Imaging,7,11,17,21,18,18,15,9,13,14,11,15,14
+463,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Nuclear Medicine Procedure,8,8,9,10,9,11,11,13,11.5,13,13,13,11
+464,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Plain Radiography,0,1,5,9,9,9,10,9,7,6,6,12,8
+465,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+466,Y59,RWF,Maidstone and Tunbridge Wells NHS Trust,Single Photon Emission Computerized Tomography,7,5,1,2,14,1,1,3,10,3,2,4,3
+467,Y59,RPA,Medway NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+468,Y59,RPA,Medway NHS Foundation Trust,Diagnostic Ultrasonography,6,9,47,28,27,28,27,25,25,11,6,5,20
+469,Y59,RPA,Medway NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,Y59,RPA,Medway NHS Foundation Trust,Magnetic Resonance Imaging,15,16,59,31,18,12,23,23,25,29,19,20,22
+471,Y59,RPA,Medway NHS Foundation Trust,Nuclear Medicine Procedure,13,10,21,23,21,25,23,29,11,38,35,.,23
+472,Y59,RPA,Medway NHS Foundation Trust,Plain Radiography,1,1,1,2,2,3,3,4,2,0,0,0,0
+473,Y59,RPA,Medway NHS Foundation Trust,Positron Emission Tomography,.,.,0,0,0,.,.,.,0,0,0,0,0
+474,Y59,RPA,Medway NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,*,39,.,*,14.5,40,70,.,.,*,.,32
+475,Y59,NT2,Nuffield Health,Computerized Axial Tomography,.,.,*,.,.,.,*,.,*,.,.,.,.
+476,Y59,NT2,Nuffield Health,Diagnostic Ultrasonography,.,.,.,*,.,*,.,.,*,.,.,.,.
+477,Y59,NT2,Nuffield Health,Fluoroscopy,.,.,.,.,.,.,*,*,*,*,.,.,.
+478,Y59,NT2,Nuffield Health,Magnetic Resonance Imaging,.,*,.,.,.,.,.,.,.,.,.,.,.
+479,Y59,NT2,Nuffield Health,Plain Radiography,.,.,.,.,.,.,.,.,.,.,.,.,.
+480,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,0,0,1,1,0,0,1,0,0
+481,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,1,4,5,7,12,12,9,12,8,20,11,8,8
+482,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,7,16,24,20,25,28,35,33,32,39,31,32.5,28
+484,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,27,32,23,22,27,20,21,20,21,22,22,21,21
+485,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Positron Emission Tomography,11,17,9,9,8,9,8,11,17,23,20,20,14
+487,Y59,RTH,Oxford University Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,56,61,96,21,21.5,23,17,20,22.5,29.5,17.5,19,22.5
+488,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Computerized Axial Tomography,0,1,1,2,2,3,3,2,2,1,1,3,2
+489,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Diagnostic Ultrasonography,11,10,11,13,14,15,16,16,16,18,16,15,14
+490,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Magnetic Resonance Imaging,8,50,22,30,18,12,13,23,17,25,24,14,19
+492,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Nuclear Medicine Procedure,7,11,12,16,18,13,16,15.5,14,16,14.5,13,14
+493,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Positron Emission Tomography,5.5,4,7,6,13,17,13,8,7.5,7,7,11,9
+495,Y59,RHU,Portsmouth Hospitals University National Health Service Trust,Single Photon Emission Computerized Tomography,9,13,14,20,25,16.5,16,12,23.5,23,16,23,18
+496,Y59,NTP,Practice Plus Group,Computerized Axial Tomography,.,.,.,.,.,0,0,0,0,0,*,0,0
+497,Y59,NTP,Practice Plus Group,Diagnostic Ultrasonography,13,8,15,19,17,21,14,10,12,17,15,27,17
+498,Y59,NTP,Practice Plus Group,Fluoroscopy,.,.,.,.,.,*,6,*,.,.,.,*,7
+499,Y59,NTP,Practice Plus Group,Magnetic Resonance Imaging,26,29,27,21,17,17,11,12,16,24,18,27,17
+500,Y59,NTP,Practice Plus Group,Plain Radiography,0,0,1,1,1,3,3,2,1,1,4,5,1
+501,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Computerized Axial Tomography,4,3,7,11,12,12,10,12,10.5,13,14,10,10
+502,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Diagnostic Ultrasonography,7,16,18,17,13,13,14,19,19,22,18,20,16
+503,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Magnetic Resonance Imaging,8,7,9,11,15,20,25,25,26,30,13,18,15
+505,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Nuclear Medicine Procedure,8,12,62,48,13,18.5,24,14,29.5,17,15,14,15
+506,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+507,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Positron Emission Tomography,11,6,*,16.5,16,22,13,5,9.5,*,13,8,11
+508,Y59,RPC,Queen Victoria Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,8,12,*,48,13,18.5,22.5,18,27,17,15,14,15
+509,Y59,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,2,4,5,7,12,5,2,3,1,3,*,9,5
+510,Y59,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,.,10,12,8,11,20,22,27,29,37,29,49,25
+511,Y59,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,0,0,1,0,0,0,0,0,0,0,0,0,0
+512,Y59,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,3,7,5,6,9,8,8,7,8,15,4,4,6
+513,Y59,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,0.5,33,4,0,0,0,0,0,0,0,0,0,0
+514,Y59,RHW,Royal Berkshire NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,0,1,1,1,1,1,1,1,0
+515,Y59,RHW,Royal Berkshire NHS Foundation Trust,Diagnostic Ultrasonography,0,1,6,17,17,19,18,18,16,22,20,15.5,15
+516,Y59,RHW,Royal Berkshire NHS Foundation Trust,Fluoroscopy,1,3,1,10,20,21,15,13,16,23,14,5,12
+517,Y59,RHW,Royal Berkshire NHS Foundation Trust,Magnetic Resonance Imaging,2,2,12,19,20,18,17,15,14,18,16,15,15
+518,Y59,RHW,Royal Berkshire NHS Foundation Trust,Nuclear Medicine Procedure,2,6,6.5,10,8,7,9,9,12,15,10,7,8
+519,Y59,RHW,Royal Berkshire NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,1,0,1,0,1,0
+521,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Diagnostic Ultrasonography,12,7,12,11,14,15,14,16,14,18,13,11,13
+522,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Fluoroscopy,0,0,1,1,1,0,1,0,1,1,1,2,1
+523,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Magnetic Resonance Imaging,10,12,21,22,23,21,16,17,16,18,16,16,18
+524,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Nuclear Medicine Procedure,9.5,9,13,14,14,14,13,14,12,17,18,13,14
+526,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+527,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+528,Y59,RA2,Royal Surrey County Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,25,17.5,34,30,34,32,24,27,24,39.5,30.5,31,28.5
+529,Y59,RW1,Southern Health NHS Foundation Trust,Computerized Axial Tomography,12,12,18,17,14,12,9,14,14,20,19,19.5,15
+530,Y59,RW1,Southern Health NHS Foundation Trust,Diagnostic Ultrasonography,22,24.5,18,16,9,10,9,16,16,14,13,13,13
+531,Y59,RW1,Southern Health NHS Foundation Trust,Fluoroscopy,*,20,14.5,25,20,17,8,4.5,5,14,12,12,13
+532,Y59,RW1,Southern Health NHS Foundation Trust,Magnetic Resonance Imaging,27,11.5,27,30,36,32,23,28,21,28,20,18,24
+533,Y59,RW1,Southern Health NHS Foundation Trust,Plain Radiography,0,0,7,6,4,6,10,8,7,5,8,11,7
+534,Y59,NT3,Spire Healthcare,Computerized Axial Tomography,2,4,13,8,6,8,8,15,5,3,4,9,4
+535,Y59,NT3,Spire Healthcare,Diagnostic Ultrasonography,1,1,5.5,17,10,13,6,7,7,7,8,11,8
+536,Y59,NT3,Spire Healthcare,Fluoroscopy,0.5,*,27,*,1,1,1,2,1,1,1,1,1
+537,Y59,NT3,Spire Healthcare,Magnetic Resonance Imaging,1,8,5,24,17,25,35,31,29,15,11,11,15
+538,Y59,NT3,Spire Healthcare,Plain Radiography,0,0,4.5,0,0,0,0,0,0,0,0,0,0
+539,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Diagnostic Ultrasonography,7,9,9,8,8,9,9,8,9,13,10,9,9
+541,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+542,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Magnetic Resonance Imaging,17,4,5,8,11,13,12.5,24,28,19,10,8,10
+543,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Nuclear Medicine Procedure,15,10,10,15,14,13,12,10,13,19,13,15,13
+544,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Positron Emission Tomography,.,*,.,.,*,*,.,.,.,.,.,.,7
+546,Y59,RTP,Surrey and Sussex Healthcare NHS Trust,Single Photon Emission Computerized Tomography,32,12,10,1,3,21,1,0.5,21,25,27.5,21,6
+547,Y59,RDR,Sussex Community NHS Foundation Trust,Diagnostic Ultrasonography,8,17,20,22,29,30,28,23,21,26,24,24,24
+548,Y59,RDR,Sussex Community NHS Foundation Trust,Plain Radiography,0,0,0,7,7,7,9,7,8,5,5,6,5
+549,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Computerized Axial Tomography,0,1,1,1,1,1,1,1,1,1,1,1,1
+550,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Diagnostic Ultrasonography,8,10,12,13,12,14,13,14,13,14,13,13,13
+551,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+552,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Magnetic Resonance Imaging,28,18,15,15,16,13,17,13,15,28,34,20,18
+553,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Nuclear Medicine Procedure,22,14,27,27,27,27,25,28,26,34,27,32,27
+554,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+555,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Positron Emission Tomography,7,10,11,11.5,14,15,15,11,10,16,11.5,16,13
+556,Y59,RHM,University Hospital Southampton NHS Foundation Trust,Single Photon Emission Computerized Tomography,28,41,22,25,28,22.5,21,26,27,37,26.5,27.5,27
+557,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,0,1,1,1,0,0,0
+558,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,1,1,1,2,3,8,13,16,12,12,13,14,7
+559,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+560,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,6,10,14,22,30,33,30,33,27,38,35,18,25
+561,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,4,4,14.5,58.5,22.5,18,23,22,23,28,22,21,21
+562,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+563,Y59,RYR,Western Sussex Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,7,6,43,51,43,47.5,38.5,29,38,42.5,30,36.5
+564,Y60,NT9,Alliance Medical,Magnetic Resonance Imaging,14,12,14,22,26,32,27,27,25,27,23,22,24
+565,Y60,NT9,Alliance Medical,Nuclear Medicine Procedure,.,.,.,.,.,.,.,.,*,.,.,.,*
+566,Y60,NT9,Alliance Medical,Positron Emission Tomography,6,7,6,7,7,7,8,7,7,8,7,7,7
+567,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Computerized Axial Tomography,0,0,2,2,1,2,3,1,1,4,7,3,2
+568,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Diagnostic Ultrasonography,0,0,0,0,0,0,0,0,0,0,0,0,0
+569,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+570,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Magnetic Resonance Imaging,15,37,37,52,41,51,44,47,62,75,66,62,52
+571,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Nuclear Medicine Procedure,24.5,57,43.5,41,48,49,42,43,41,65,72,55,48
+573,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,Y60,RQ3,Birmingham Women's and Children's NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,*,.,*,14.5,.,*,*,.,.,.,15
+575,Y60,NT4,BMI Healthcare,Computerized Axial Tomography,2,7,6,7,6,9,9,3,4,6,5,5,6
+576,Y60,NT4,BMI Healthcare,Diagnostic Ultrasonography,1,6,7,5,8,10,12,9,12,7,8,11,9
+577,Y60,NT4,BMI Healthcare,Fluoroscopy,.,*,*,17,2,.,6,20,9,7,7,7,7
+578,Y60,NT4,BMI Healthcare,Magnetic Resonance Imaging,5,5,5,6,7,14,13,14,13,16,9,9,9
+579,Y60,NT4,BMI Healthcare,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,1,1,1,1,1,1,1
+581,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Diagnostic Ultrasonography,1,2,7,11,16,15,15,19,17,15,15,14,13
+582,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,1,1,0,0,2,1,1,1,0
+583,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Magnetic Resonance Imaging,9,12,11,12,12,12,12,12,14,21.5,14,13,12
+584,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Nuclear Medicine Procedure,8,8,12,13,7,15,9,9,10,18,11,7,10
+585,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,Y60,RFS,Chesterfield Royal Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,.,*,218,308,199,257.5,267
+587,Y60,RLT,George Eliot Hospital NHS Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+588,Y60,RLT,George Eliot Hospital NHS Trust,Diagnostic Ultrasonography,12,13,10,14,18,19,18,28,25,24,24,20,17
+589,Y60,RLT,George Eliot Hospital NHS Trust,Fluoroscopy,0,0.5,3,1,6,5,0,3,1,0,0,0,0
+590,Y60,RLT,George Eliot Hospital NHS Trust,Magnetic Resonance Imaging,12,22,20,20,24,21,24,44,33.5,33,23,24,25
+591,Y60,RLT,George Eliot Hospital NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+592,Y60,NV1,InHealth Limited,Diagnostic Ultrasonography,7,9,14,20,28,35,34,34,20,31,21,24,25
+593,Y60,NV1,InHealth Limited,Magnetic Resonance Imaging,2,4,9,15,22,48,24,40,39,37,33,36,33
+594,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,1,0,1,0,1,0
+595,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Diagnostic Ultrasonography,7,6,8,17,20,18,15,13,14,15,14,17,14
+596,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Fluoroscopy,0,0,4,0,2,0,7,1.5,0,7,0,0,0
+597,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Magnetic Resonance Imaging,11,6,14,33,39,29,42,56,42,37,14,10,21
+598,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Nuclear Medicine Procedure,6.5,8,8,10,9,12,9,8,7,7,11.5,12,9
+599,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+600,Y60,RNQ,Kettering General Hospital NHS Foundation Trust,Positron Emission Tomography,10.5,6,8,9,8,10,11,12,8,13,7.5,8,9
+601,Y60,RNS,Northampton General Hospital NHS Trust,Computerized Axial Tomography,0,0,1,1,1,1,2,1,1,1,1,1,1
+602,Y60,RNS,Northampton General Hospital NHS Trust,Diagnostic Ultrasonography,16,7,5,9,15,21,18,19,20,28,22,14,16
+603,Y60,RNS,Northampton General Hospital NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+604,Y60,RNS,Northampton General Hospital NHS Trust,Magnetic Resonance Imaging,24,8,6,9,13,13,15,22,25,32,24,24,17
+605,Y60,RNS,Northampton General Hospital NHS Trust,Nuclear Medicine Procedure,13,19,44,28,27,28,25,21,24,36,31,28,28
+606,Y60,RNS,Northampton General Hospital NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+607,Y60,RNS,Northampton General Hospital NHS Trust,Positron Emission Tomography,5,4,7,7,5,5,8,7,5,6.5,5,6,6
+608,Y60,RNS,Northampton General Hospital NHS Trust,Single Photon Emission Computerized Tomography,1,1,1.5,4,2,4.5,2,1,6,1.5,2,4,2
+609,Y60,RX1,Nottingham University Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,Y60,RX1,Nottingham University Hospitals NHS Trust,Diagnostic Ultrasonography,5,5,6,6,7,7,8,7,10,8,8,7,7
+611,Y60,RX1,Nottingham University Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+612,Y60,RX1,Nottingham University Hospitals NHS Trust,Magnetic Resonance Imaging,6,5,5,12,17,18,22,21,18,17,20,25,16
+613,Y60,RX1,Nottingham University Hospitals NHS Trust,Nuclear Medicine Procedure,3,5,6,16,9,12,13.5,11,12,12,9,8,9
+614,Y60,RX1,Nottingham University Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+615,Y60,RX1,Nottingham University Hospitals NHS Trust,Positron Emission Tomography,7,6,5,7,8,10,14,12,9,14,8,5,8
+616,Y60,RX1,Nottingham University Hospitals NHS Trust,Single Photon Emission Computerized Tomography,*,10,*,12,8,24,7.5,16,37,36,13,28,14
+617,Y60,NT2,Nuffield Health,Computerized Axial Tomography,.,4,10,16,22,9,10,10,16,12,10,9,12
+618,Y60,NT2,Nuffield Health,Diagnostic Ultrasonography,1.5,3,3.5,7,9.5,7.5,8,5.5,5,19,6,11.5,6
+619,Y60,NT2,Nuffield Health,Fluoroscopy,*,*,16,16,16,13,14,29,15,20,16,15,15
+620,Y60,NT2,Nuffield Health,Magnetic Resonance Imaging,.,3,11,16,22,32,6,6,15,10,9,10,12
+621,Y60,NT2,Nuffield Health,Plain Radiography,0,2,4,14,9,14,188.5,15.5,11,26,5,14,10
+622,Y60,NTP,Practice Plus Group,Magnetic Resonance Imaging,.,.,.,.,.,.,.,.,.,18.5,*,.,15.5
+623,Y60,NTP,Practice Plus Group,Plain Radiography,0,1,1,1,1,0,0,0,0,0,0,0,0
+624,Y60,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,6,2,1,1,1,1.5,1,3,3,6,5.5,8,2
+625,Y60,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,7,2,13,6,5,4,6,6,11,26,5,5,6
+626,Y60,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,1,*,0,1,1,1,1,1,1,1,2,1,1
+627,Y60,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,5,6,7,3,3,2,3,3,5,17,7,3,4
+628,Y60,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+630,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Diagnostic Ultrasonography,1,1,1,1,1,1,1,1,1,1,1,1,1
+631,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+632,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Magnetic Resonance Imaging,1,1,2,3,3,3,2,3,3,4,3,4,3
+633,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Nuclear Medicine Procedure,8,7,7,8,8,8,8,9,7,11,10,7,8
+634,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+635,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,Y60,RXK,Sandwell and West Birmingham Hospitals NHS Trust,Single Photon Emission Computerized Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,Y60,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,Y60,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,6,6,7,11,11,14,12,9,11,11,10,12,10
+639,Y60,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+640,Y60,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,4,4,7,16,24,15.5,18,21,23,23,16,15,17
+641,Y60,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,3,6,5,23,9.5,10,27,18,15,0,0,0,9
+642,Y60,RK5,Sherwood Forest Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,Y60,RJC,South Warwickshire NHS Foundation Trust,Computerized Axial Tomography,1,2,2,2,2,1,1,3,4,2,4,3,2
+644,Y60,RJC,South Warwickshire NHS Foundation Trust,Diagnostic Ultrasonography,15,11,10,12,14,14,12,15,16,20,15,17,14
+645,Y60,RJC,South Warwickshire NHS Foundation Trust,Fluoroscopy,2,2,10,8,2,2,2,6,10,20,9,14,6
+646,Y60,RJC,South Warwickshire NHS Foundation Trust,Magnetic Resonance Imaging,22,21,14,13,22,26.5,16,30,34,37,24,24,23
+647,Y60,RJC,South Warwickshire NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+648,Y60,NT3,Spire Healthcare,Computerized Axial Tomography,1,*,5,14,6.5,14,9,9,7,7,7,13,9
+649,Y60,NT3,Spire Healthcare,Diagnostic Ultrasonography,6,98.5,14,7,11,14,14,15,15,15,17,16,14
+650,Y60,NT3,Spire Healthcare,Fluoroscopy,0,.,*,0.5,1,3,3,3,4.5,1,1,1.5,1
+651,Y60,NT3,Spire Healthcare,Magnetic Resonance Imaging,1,7,11,10.5,18,17,20,16,13,9.5,10,10,14
+652,Y60,NT3,Spire Healthcare,Plain Radiography,1,0,2,3,1,0,0,1,1,0,0,1,0
+653,Y60,RNA,The Dudley Group NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,1,1,1,1,1,1,1
+654,Y60,RNA,The Dudley Group NHS Foundation Trust,Diagnostic Ultrasonography,14,14,16,14,15,19,19,19,14,19,19,20,16
+655,Y60,RNA,The Dudley Group NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,1,0,0,1,1,1,0
+656,Y60,RNA,The Dudley Group NHS Foundation Trust,Magnetic Resonance Imaging,9,9,17,25,29,22,18,19,19,25,26,25,21
+657,Y60,RNA,The Dudley Group NHS Foundation Trust,Nuclear Medicine Procedure,3,4,13,17,20,15,16,20,17,17,14.5,17,15
+658,Y60,RNA,The Dudley Group NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,Y60,RNA,The Dudley Group NHS Foundation Trust,Positron Emission Tomography,.,.,.,.,.,.,.,.,0,.,.,.,0
+660,Y60,RNA,The Dudley Group NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,0,12,23.5,23,20,20,25,23,50,21,35,20
+661,Y60,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Computerized Axial Tomography,0,3,4,6,16.5,19,15,19,27,26,17,20.5,15
+662,Y60,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Diagnostic Ultrasonography,3,2,7,12,28,40,28,25,20,14,12,16,18
+663,Y60,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,1,1,1,1,1,1,1,1
+664,Y60,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Magnetic Resonance Imaging,5,5,12,15,154,90,36,30,32,44,36,37,34
+665,Y60,RL1,The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,1,6,8,9,7,8,9,5
+666,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Computerized Axial Tomography,7,6,35,16,15,17,20,18,21,23,28,17,18
+667,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Diagnostic Ultrasonography,8,3.5,103,58,26,34,33,37,36,45,49,59.5,36
+668,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Fluoroscopy,0,0,104,27,20,*,31,35,38.5,6.5,*,28,27
+669,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Magnetic Resonance Imaging,26,7.5,103,20,17,25,31,40,44,47,49,36,33
+670,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Nuclear Medicine Procedure,*,52,99,116,33,32,27,25,33,34,.,*,38
+671,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Plain Radiography,0,0,5,6,0,1,2,5,1,2,5,2,1
+672,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Positron Emission Tomography,.,.,*,*,9,.,.,.,.,*,.,.,14
+673,Y60,RRJ,The Royal Orthopaedic Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,*,108,126,60,.,*,.,*,*,.,51,86
+674,Y60,RL4,The Royal Wolverhampton NHS Trust,Computerized Axial Tomography,0,0,1,1,1,1,1,1,1,1,1,1,1
+675,Y60,RL4,The Royal Wolverhampton NHS Trust,Diagnostic Ultrasonography,1,2,7,12,18,18,21,21,23,42,35,27,18
+676,Y60,RL4,The Royal Wolverhampton NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,Y60,RL4,The Royal Wolverhampton NHS Trust,Magnetic Resonance Imaging,2,9,26,21,19,15,14,15,17,16,11,16,16
+678,Y60,RL4,The Royal Wolverhampton NHS Trust,Nuclear Medicine Procedure,5,7,17.5,22.5,21,23,15,17,19,25,26,20,19
+679,Y60,RL4,The Royal Wolverhampton NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,Y60,RL4,The Royal Wolverhampton NHS Trust,Single Photon Emission Computerized Tomography,5,6,6,10,8,6,5.5,7,11,11,7,6,7
+681,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,5,0,0,0,0,0
+682,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Diagnostic Ultrasonography,1,2,3,6,7,7,8,11,10,8,10,11,7
+683,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Fluoroscopy,8,6,19,13,16,15,19,25,13.5,25,38,30.5,17
+684,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Magnetic Resonance Imaging,6,7,7,12,20,18,23,69,34,23,18,14,19
+685,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Nuclear Medicine Procedure,7,7,7,8,9,8,8,8,7,8,8,7,8
+686,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+687,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Positron Emission Tomography,.,.,*,.,.,.,.,.,.,.,.,.,*
+688,Y60,RXW,The Shrewsbury and Telford Hospital NHS Trust,Single Photon Emission Computerized Tomography,*,75,116,106,63,47,47,49.5,46,55,63.5,62,55
+689,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Computerized Axial Tomography,0,8.5,1,1,1,1,2,2,2,1,1,1,1
+690,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Diagnostic Ultrasonography,0,0,1,1,1,1,1,1,1,1,1,1,1
+691,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+692,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Magnetic Resonance Imaging,6,15,8,9,9,12,12,15,17,17,13,13,12
+693,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Nuclear Medicine Procedure,6,70,39,27,26,35,35,38.5,28.5,40,22,27,29
+694,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+695,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Positron Emission Tomography,8,12,8,8,9,10.5,9,8,8,9,8,8,8
+696,Y60,RWD,United Lincolnshire Hospitals NHS Trust,Single Photon Emission Computerized Tomography,.,.,113,179,48,47,*,55,63.5,57.5,102,114,71
+697,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,1,1,1,1,1,1,1,1,1
+698,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Diagnostic Ultrasonography,1,1,2,2,2,4,7,8,4,7,4,5,3
+699,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+700,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Magnetic Resonance Imaging,12,11,13,18,25,19,16,19,17,21,19,16,17
+701,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Nuclear Medicine Procedure,10,8,29,22,21,21,22,21,21,33,23,19.5,21
+702,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+703,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Positron Emission Tomography,10,10,8,13,10,13,12,13,14,15,13,14,13
+704,Y60,RRK,University Hospitals Birmingham NHS Foundation Trust,Single Photon Emission Computerized Tomography,14,13,12,26,13,17,20,15,21,27,18,15,18
+705,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Computerized Axial Tomography,1,1,1,1,1,1,1,1,1,1,1,1,1
+706,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Diagnostic Ultrasonography,2,4,12,12,17,22,21,7,11,14,12,13,11
+707,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Fluoroscopy,4,2,3,5,4.5,4,5,6.5,3,3,8,4,4
+708,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Magnetic Resonance Imaging,30,43,17,19,24,24,25,23,21,23,18,17,21
+709,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Nuclear Medicine Procedure,12,11,10,11,13,12,12,14,14,13,9,13,12
+710,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+711,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Positron Emission Tomography,6,7,5,6,6,6,5,6,6,7,6,6.5,6
+712,Y60,RKB,University Hospitals Coventry and Warwickshire NHS Trust,Single Photon Emission Computerized Tomography,13.5,8,9,12,15.5,12,14.5,15,14,31,22,18,15
+713,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,1,1,1,1,1,1,1,1
+714,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Diagnostic Ultrasonography,7,7,7,7,9,11,10,10,9,13,13,13,9
+715,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Fluoroscopy,0,0,0,1,1,1,0,0,0,0,0,0,0
+716,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Magnetic Resonance Imaging,3,3,11,7,6,7,8,9,8,11,9,8,8
+717,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Nuclear Medicine Procedure,18,9,27,27,23,28,23.5,23,20,35,21,36,25
+718,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+719,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+720,Y60,RTG,University Hospitals of Derby and Burton NHS Foundation Trust,Single Photon Emission Computerized Tomography,1,1,1,1,2,1,1,1,2,2,1,1,1
+721,Y60,RWE,University Hospitals of Leicester NHS Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+722,Y60,RWE,University Hospitals of Leicester NHS Trust,Diagnostic Ultrasonography,1,6,13,19,22,25,23,23,22,13,22,18,15
+723,Y60,RWE,University Hospitals of Leicester NHS Trust,Fluoroscopy,0,0,1,2,2,2,1,1,1,4,2,2,1
+724,Y60,RWE,University Hospitals of Leicester NHS Trust,Magnetic Resonance Imaging,21,24,46,33,34,40,39,44,42,47,47,41,39
+725,Y60,RWE,University Hospitals of Leicester NHS Trust,Nuclear Medicine Procedure,13,18.5,20,18,20,19,22,21,16.5,26,20,14,19
+726,Y60,RWE,University Hospitals of Leicester NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+727,Y60,RWE,University Hospitals of Leicester NHS Trust,Positron Emission Tomography,7,7,8,7,7,9.5,9,7,8,8,8,8,8
+728,Y60,RWE,University Hospitals of Leicester NHS Trust,Single Photon Emission Computerized Tomography,10,11,12,17,12.5,17,13,11.5,14,22,9,9,12
+729,Y60,RJE,University Hospitals of North Midlands NHS Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+730,Y60,RJE,University Hospitals of North Midlands NHS Trust,Diagnostic Ultrasonography,3,2,2,7,11,21,15.5,14,13,14,7,7,10
+731,Y60,RJE,University Hospitals of North Midlands NHS Trust,Fluoroscopy,2,1,3,5,4,5,3,4,3.5,4,5,3,3
+732,Y60,RJE,University Hospitals of North Midlands NHS Trust,Magnetic Resonance Imaging,1,5,17,37,50,52,39,30,27,23,22,24,28
+733,Y60,RJE,University Hospitals of North Midlands NHS Trust,Nuclear Medicine Procedure,3,4,14,19.5,19,14,13,14,13,12,13,14,14
+734,Y60,RJE,University Hospitals of North Midlands NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+735,Y60,RJE,University Hospitals of North Midlands NHS Trust,Positron Emission Tomography,.,.,*,.,.,.,.,.,.,.,.,.,*
+736,Y60,RJE,University Hospitals of North Midlands NHS Trust,Single Photon Emission Computerized Tomography,.,.,116.5,91,23.5,23,22,19.5,14,29,30,33,29
+737,Y60,RBK,Walsall Healthcare NHS Trust,Computerized Axial Tomography,1,1,1,1,1,1,1,1,1,1,1,1,1
+738,Y60,RBK,Walsall Healthcare NHS Trust,Diagnostic Ultrasonography,15,12,14,14,14,15,14,14,14,14,14,14,14
+739,Y60,RBK,Walsall Healthcare NHS Trust,Fluoroscopy,0,0,1,5,8,9,13,13,8,6.5,12,8,7
+740,Y60,RBK,Walsall Healthcare NHS Trust,Magnetic Resonance Imaging,19,9,20,21,25,22,20,16,19,22,20,19,20
+741,Y60,RBK,Walsall Healthcare NHS Trust,Nuclear Medicine Procedure,14,16,14,13,14,13,14,14,15.5,19,17,12,14
+742,Y60,RBK,Walsall Healthcare NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,Y60,RBK,Walsall Healthcare NHS Trust,Single Photon Emission Computerized Tomography,*,.,.,.,.,.,.,.,.,.,.,.,*
+744,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Computerized Axial Tomography,0,0,1,1,1,1,2,4,1,1,1,1,1
+745,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Diagnostic Ultrasonography,1,1,1,2,5,8,9,11,10,2,2,3,4
+746,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+747,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Magnetic Resonance Imaging,9,3,4,8,11,15,18,22,26,27,23,19,14
+748,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Nuclear Medicine Procedure,8,7,7,9,13,12,16,14,13,14,14,14,12
+749,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+750,Y60,RWP,Worcestershire Acute Hospitals NHS Trust,Single Photon Emission Computerized Tomography,.,78,*,10,15.5,27.5,22,54,.,.,.,.,27.5
+751,Y60,RLQ,Wye Valley NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,1,0,1,1,0,0
+752,Y60,RLQ,Wye Valley NHS Trust,Diagnostic Ultrasonography,14,8,14,21,23,16,15,13,14,15,14,14,14
+753,Y60,RLQ,Wye Valley NHS Trust,Fluoroscopy,0,0,1,1,0,1,4,0,0,0,0,5,0
+754,Y60,RLQ,Wye Valley NHS Trust,Magnetic Resonance Imaging,6,4,7,13,20,17,21,14,29,33,27,32,19
+755,Y60,RLQ,Wye Valley NHS Trust,Nuclear Medicine Procedure,9,7,14,26.5,36.5,36,17,30,21,37,22,29,24
+756,Y60,RLQ,Wye Valley NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,Y60,RLQ,Wye Valley NHS Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,14,1,*,*,.,.,5
+758,Y61,NT9,Alliance Medical,Magnetic Resonance Imaging,13,4,12,21,5,4,4,5,21,6,3,17.5,9
+759,Y61,NT9,Alliance Medical,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,Y61,NT9,Alliance Medical,Positron Emission Tomography,6,6,5,5,6,7,7,5,7,5,4,7,6
+761,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,2,2,1,2,1,2,1,1,1,2,1
+762,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,14,14,25,18,16,23,22,25,21,28,22,22,21
+763,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+764,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,5,8,14,9,10,9,10,13,12,14,12,14,11
+765,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,7,15,31,18,21,24,20,12,14,13,15,14,16
+766,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,Y61,RC9,Bedfordshire Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,2,7,8.5,5,6,12,5,8.5,9,8,7,10,7
+768,Y61,NT4,BMI Healthcare,Computerized Axial Tomography,.,.,.,.,*,.,.,.,*,.,.,.,3
+769,Y61,NT4,BMI Healthcare,Diagnostic Ultrasonography,.,0,2,2,1,1,1,1,1,3,7,11.5,1
+770,Y61,NT4,BMI Healthcare,Fluoroscopy,0,0,0,0,*,.,.,.,.,.,.,.,0
+771,Y61,NT4,BMI Healthcare,Magnetic Resonance Imaging,1.5,*,4.5,4,10,5.5,14,21,27,36,26,26,14
+772,Y61,NT4,BMI Healthcare,Plain Radiography,0,1,0,0,0,0,0,0,0,0,0,0,0
+773,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+774,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,1,1,1,2,5,5,5,7,7,2,4,5,3
+775,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+776,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,6,5,7,14,27,43,30,28,22,28,20,16,20
+777,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,9,8,14,32,31,33.5,19.5,19,22,21,12,24,21
+778,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Positron Emission Tomography,8,6,6,5,7,12,7,8,8,8,10,18,9
+780,Y61,RGT,Cambridge University Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,9.5,0,1,7,4,0,1,0,0,0,0.5,1,0
+781,Y61,RWH,East and North Hertfordshire NHS Trust,Computerized Axial Tomography,0,0,0,0,0,1,0,0,0,0,0,0,0
+782,Y61,RWH,East and North Hertfordshire NHS Trust,Diagnostic Ultrasonography,9,6,13,20,28,28,26,26,24,26,21,26.5,22
+783,Y61,RWH,East and North Hertfordshire NHS Trust,Fluoroscopy,4,2,7,7,7,13,8,6,7,7,7,8.5,7
+784,Y61,RWH,East and North Hertfordshire NHS Trust,Magnetic Resonance Imaging,7,6,8,9,9,13,11,11,10,16,15,11,10
+785,Y61,RWH,East and North Hertfordshire NHS Trust,Nuclear Medicine Procedure,13,10,24,19.5,10,14,15,19,10.5,9,16,18.5,15
+786,Y61,RWH,East and North Hertfordshire NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,Y61,RWH,East and North Hertfordshire NHS Trust,Single Photon Emission Computerized Tomography,.,.,.,98.5,*,15,*,22,22,32,.,.,28
+788,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,1,1,1,0,1,1,1,1
+789,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Diagnostic Ultrasonography,12,12,14,14,14,14,14,14,17,18,15,14,14
+790,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,1,0,0,0
+791,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Magnetic Resonance Imaging,7,18,13,15,18,15,22,26,32,35,34,31,24
+792,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Nuclear Medicine Procedure,6.5,8,12,25,22.5,27,18,17.5,21,29,17,19,19
+793,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Positron Emission Tomography,5,4,4,5,4,7,6,3,5.5,3,4,6,5
+795,Y61,RDE,East Suffolk and North Essex NHS Foundation Trust,Single Photon Emission Computerized Tomography,7.5,13.5,18,17.5,13.5,24.5,27,19,34,34,20.5,14.5,18
+796,Y61,NV1,InHealth Limited,Diagnostic Ultrasonography,25.5,15,20,17,17,11,16,18,21,16.5,10,13,16
+797,Y61,NV1,InHealth Limited,Magnetic Resonance Imaging,2,6,7,7,8,7,7,6,8,11,6,6,7
+798,Y61,NV1,InHealth Limited,Plain Radiography,.,.,.,.,*,*,.,.,.,.,.,.,17.5
+799,Y61,RGP,James Paget University Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+800,Y61,RGP,James Paget University Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,13,10,19,17,17,14,13,12,13,14,14,12,14
+801,Y61,RGP,James Paget University Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0.5,0,0,0,3,0
+802,Y61,RGP,James Paget University Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,16.5,16,20,21,27,27,29,29,24,37,26,26,26
+803,Y61,RGP,James Paget University Hospitals NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+804,Y61,RGP,James Paget University Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,1,1,1,1,1,1,1,1,1
+806,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Diagnostic Ultrasonography,16,10,10,11,13,13,13,10,13,12,12,11,12
+807,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Fluoroscopy,1,1,3,2,2,1,1,1,2,1,1,2,1
+808,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Magnetic Resonance Imaging,8,4,13,13,10,11,13,15,19,23,17,16,14
+809,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,.,.,.,.,.,0
+810,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Nuclear Medicine Procedure,6,7,12,10,13,13,14,14,15,14,13,13,13
+811,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+812,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Positron Emission Tomography,8,9,6.5,5,7,8,8,6,8,7,6,6,7
+813,Y61,RAJ,Mid and South Essex NHS Foundation Trust,Single Photon Emission Computerized Tomography,13,39.5,36,27,18,21,26,31,21,60,31,27.5,27
+814,Y61,RD8,Milton Keynes University Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,0,1,1,1,1,1,1,1,1
+815,Y61,RD8,Milton Keynes University Hospital NHS Foundation Trust,Diagnostic Ultrasonography,13,11,13,17,21,27,21,24,30,28,21,24,20
+816,Y61,RD8,Milton Keynes University Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0.5,0,0
+817,Y61,RD8,Milton Keynes University Hospital NHS Foundation Trust,Magnetic Resonance Imaging,2,2,6,6,6,7,9,12,13,16,11,13,10
+818,Y61,RD8,Milton Keynes University Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+819,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Computerized Axial Tomography,1,1,1,1,1,1,3,4,2,2,1,1,1
+820,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,5,3,3,3,6,8,8,11,8,7,8,10,6
+821,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Fluoroscopy,1,1,2,1,2,1,1,1,1,1,1,2,1
+822,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,4,3,5,9,13,47,21,26,22,28,12,13,14
+823,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,13,9.5,14.5,21,17,29,23,23,19,20,18,15,18
+824,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+825,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Positron Emission Tomography,3,7,7,10,9,10,8,7,9,8,7,9,8
+826,Y61,RM1,Norfolk and Norwich University Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,19,60.5,19,40.5,21,47,29.5,70,56.5,48,18,20.5,33
+827,Y61,RGN,North West Anglia NHS Foundation Trust,Computerized Axial Tomography,0,0,1,2,2,3,2,3,2,3,2,2,1
+828,Y61,RGN,North West Anglia NHS Foundation Trust,Diagnostic Ultrasonography,4,2,4,9,8,14,15,14,12,11,8,10,9
+829,Y61,RGN,North West Anglia NHS Foundation Trust,Fluoroscopy,0,1,3,1,1,2,3,3,1,7,2,2,2
+830,Y61,RGN,North West Anglia NHS Foundation Trust,Magnetic Resonance Imaging,2,7,14,21,21,17,16,12,14,19,13,8,14
+831,Y61,RGN,North West Anglia NHS Foundation Trust,Nuclear Medicine Procedure,8,11,9,12,13,13,12,13,15,14,11,10,13
+832,Y61,RGN,North West Anglia NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+833,Y61,RGN,North West Anglia NHS Foundation Trust,Positron Emission Tomography,.,.,5,.,.,.,.,.,.,7,.,.,6
+834,Y61,RGN,North West Anglia NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,61,26,19,15,18,21,22,21,20.5,22,21,21
+835,Y61,NT2,Nuffield Health,Computerized Axial Tomography,.,.,.,*,.,.,.,.,*,.,.,.,.
+836,Y61,NT2,Nuffield Health,Diagnostic Ultrasonography,.,.,.,.,.,.,.,*,.,.,.,.,.
+837,Y61,NT2,Nuffield Health,Fluoroscopy,.,.,.,.,.,.,*,*,*,*,.,.,.
+838,Y61,NT2,Nuffield Health,Magnetic Resonance Imaging,.,.,.,*,.,.,*,*,.,*,.,*,.
+839,Y61,NT2,Nuffield Health,Plain Radiography,.,.,.,.,.,.,.,.,.,.,.,.,.
+840,Y61,AVQ,One Healthcare,Computerized Axial Tomography,.,.,.,.,.,.,.,6.5,24,*,12,7.5,15
+841,Y61,AVQ,One Healthcare,Magnetic Resonance Imaging,.,75,31,22,14,8,8,18,21,24.5,28,18,21
+842,Y61,AVQ,One Healthcare,Plain Radiography,.,.,95,16,24,14,7.5,.,.,.,.,.,19
+843,Y61,AWR,One Stop Doctors Limited,Computerized Axial Tomography,13,51,51.5,141,93,54,13,14.5,29,17,33.5,18,41
+844,Y61,AWR,One Stop Doctors Limited,Magnetic Resonance Imaging,20,34,80,19,83,28,23,.,.,.,.,.,28
+845,Y61,AWR,One Stop Doctors Limited,Plain Radiography,.,.,.,*,*,*,.,.,.,.,.,.,21
+846,Y61,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,6,8,12,13,12.5,14,10,10,9,30,12,15,11
+847,Y61,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,35,6,6,11,17,30,33,31.5,31,33,14,16,19
+848,Y61,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,0,0,0,0,1,1,2,1,1,1,1,0,1
+849,Y61,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,20,6,8,8,13,18,14,14,6,34,19,20,13
+850,Y61,NVC,Ramsay Healthcare UK Operations Limited,Nuclear Medicine Procedure,.,.,.,.,.,.,.,*,*,.,*,*,90
+851,Y61,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,0,0,1,2,1,1,0,0,0,0,0,0,0
+852,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,6,34,31,23,16,28,22,2,35,23,15
+853,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Diagnostic Ultrasonography,2,0,0,1,0,1,3,4,2,4,1,3,1
+854,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Magnetic Resonance Imaging,67,10,113,149,148,66,45,41,41,49,49,42,52
+856,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Nuclear Medicine Procedure,*,0,4,13.5,7,32,20,10,9.5,9,12,14,13
+857,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+858,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Positron Emission Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+859,Y61,RGM,Royal Papworth Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,*,.,.,.,.,.,.,.,.,.,*
+860,Y61,NT3,Spire Healthcare,Computerized Axial Tomography,2,11,6,9,9,6.5,9,8,7.5,5,6,5,5
+861,Y61,NT3,Spire Healthcare,Diagnostic Ultrasonography,2,*,42,9,14,20,18,21,16,15,12,14,14
+862,Y61,NT3,Spire Healthcare,Fluoroscopy,0,*,92.5,7,1,1,0,0,0,1,1,0,0
+863,Y61,NT3,Spire Healthcare,Magnetic Resonance Imaging,2,16,36,13,13,21,21,31,20,18,15,17,19
+864,Y61,NT3,Spire Healthcare,Plain Radiography,1,4,1,0,0,0,0,0,0,0,0,0,0
+865,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Computerized Axial Tomography,0,1,2,7,1,2,1,1,2,1,1,2,1
+866,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Diagnostic Ultrasonography,16,36,26,23,17,21,23,25,22,27,15,15,21
+867,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Fluoroscopy,0,1,4,10,2,5.5,7,7,4,2,1,3,3
+868,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Magnetic Resonance Imaging,5,13,36.5,70,41,28,32,19,12,7,7,13,17
+869,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Medical Photography,.,.,.,.,.,.,.,.,.,0,.,.,0
+870,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Nuclear Medicine Procedure,5,6,7,13,15,16,11.5,12,11.5,11,10,15,11
+871,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+872,Y61,RQW,The Princess Alexandra Hospital NHS Trust,Single Photon Emission Computerized Tomography,*,.,64,63,183,105.5,204,142,92,*,*,*,106
+873,Y61,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Computerized Axial Tomography,0,0,0,0,0,0,0,1,1,1,7,0,1
+874,Y61,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Diagnostic Ultrasonography,12,10,11,14,14,13,15,14,14,24,14,11,14
+875,Y61,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Fluoroscopy,0,0,0,1,0,0,0,0,0,1,0,0,0
+876,Y61,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Magnetic Resonance Imaging,7,6,12,19,28,30,20,17,16,30,119,35.5,22
+877,Y61,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Nuclear Medicine Procedure,6,11,12,13,12,10,8,11,5,12,11,13,11
+878,Y61,RCX,"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+879,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+880,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Diagnostic Ultrasonography,14,11,8,6,7,7,7,12,11,11,11,11,9
+881,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Magnetic Resonance Imaging,1,12,23,14,24,29,34,32,33,32,24,33,27
+883,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Nuclear Medicine Procedure,12,12.5,15,16,14,18,14.5,15,16.5,26,21,23,17
+884,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,Y61,RWG,West Hertfordshire Hospitals NHS Trust,Single Photon Emission Computerized Tomography,.,.,*,24,60,21,28.5,*,30,46,*,35,31
+886,Y61,RGR,West Suffolk NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,3,1,1,1,1,0
+887,Y61,RGR,West Suffolk NHS Foundation Trust,Diagnostic Ultrasonography,2,5,11,10,11,13,13,15,12,7,4,10,10
+888,Y61,RGR,West Suffolk NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+889,Y61,RGR,West Suffolk NHS Foundation Trust,Magnetic Resonance Imaging,4,3,5,8,11,14,11,10,12,12,6,9,8
+890,Y61,RGR,West Suffolk NHS Foundation Trust,Nuclear Medicine Procedure,13,17.5,17,29,38,33,18,17,17.5,17,13.5,15,19
+891,Y61,RGR,West Suffolk NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+892,Y61,RGR,West Suffolk NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,*,15,36.5,24,29,21,*,*,.,25,24.5
+893,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+894,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Diagnostic Ultrasonography,0,1,3,2,3,7,6,7,5,6,8,8,5
+895,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Fluoroscopy,0,0,1,0,0,0,0,0,0,0,0,0,0
+896,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Magnetic Resonance Imaging,7,38,56,28,35,42,15.5,27,30,33.5,6,14,28
+897,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Medical Photography,.,.,.,.,.,.,.,.,*,.,.,.,*
+898,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Nuclear Medicine Procedure,12,76,94,47.5,65.5,50,29,75,56,56,71,60,58.5
+899,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+900,Y62,RBS,Alder Hey Children's NHS Foundation Trust,Positron Emission Tomography,.,*,.,.,*,0,*,*,.,*,.,0,0
+901,Y62,NT9,Alliance Medical,Computerized Axial Tomography,.,.,*,*,52,34.5,40,23,58,1,6,32,26
+902,Y62,NT9,Alliance Medical,Magnetic Resonance Imaging,15,12,11,18,23,20,13,17,23,26,37,28,20
+903,Y62,NT9,Alliance Medical,Positron Emission Tomography,4,5,4,5,4,6,7,6,7,8,7,7,6
+904,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Computerized Axial Tomography,3,3,3,5,4,5,3,4,4,2,1,2,3
+905,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,9,9,12,15,21,22,21,23,26,27,17,16,19
+906,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,10,9,10,15,16,15,19,16,17,19,16,14,15
+908,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,6,6,7,21,16,16,15,13,13,20,11.5,12,14
+909,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,1,5,5,3,1,1,0,0,0,0
+910,Y62,RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,13,4.5,35,11,18,10.5,14.5,14,13,15,14.5,10.5,13
+911,Y62,NT4,BMI Healthcare,Computerized Axial Tomography,2,3,3,4,2.5,3.5,2.5,1.5,7,12,10,12,4
+912,Y62,NT4,BMI Healthcare,Diagnostic Ultrasonography,4,3,6,13,6,8,7,7,6,6,8.5,7,6
+913,Y62,NT4,BMI Healthcare,Fluoroscopy,.,.,.,14,25,*,*,*,16,14,14.5,27.5,19
+914,Y62,NT4,BMI Healthcare,Magnetic Resonance Imaging,1.5,4,14,6,5,8,9,13,15,20,17,20,13
+915,Y62,NT4,BMI Healthcare,Plain Radiography,0,0,15,2,5,6,5,6,5,4,6,2,5
+916,Y62,RMC,Bolton NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+917,Y62,RMC,Bolton NHS Foundation Trust,Diagnostic Ultrasonography,9,8,9,8,8,9,8,7,8,5,8,7,8
+918,Y62,RMC,Bolton NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,1,0,0,0,0,0
+919,Y62,RMC,Bolton NHS Foundation Trust,Magnetic Resonance Imaging,6,3,8,23,24,17,13,10,12,14,13,13,13
+920,Y62,RMC,Bolton NHS Foundation Trust,Nuclear Medicine Procedure,7,7,24,18.5,17,25,15,26,18.5,17.5,26,24,18
+921,Y62,RMC,Bolton NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+922,Y62,RMC,Bolton NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,*,.,*,.,.,.,.,.,30
+923,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,1,1,1,1,1,1,1
+924,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Diagnostic Ultrasonography,2,8,9,13,9,11,10,11,9,11,11,9,10
+925,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,1,1,1,1,1,0,1,1,1,1
+926,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Magnetic Resonance Imaging,3,8,13,15,15,10,11,12,10,17,13,16,12
+927,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Nuclear Medicine Procedure,5,8,15,20,14,19,14,13,10,10.5,11,14.5,14
+928,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+929,Y62,RJR,Countess of Chester Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,*,*,.,*,36,20.5,20,.,*,28.5,28
+930,Y62,RJN,East Cheshire NHS Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,2,1,1,1,1,1
+931,Y62,RJN,East Cheshire NHS Trust,Diagnostic Ultrasonography,8,7,8,14,18,15,13,11,10,13,11,11,12
+932,Y62,RJN,East Cheshire NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,1,0.5,0,24.5,0,0
+933,Y62,RJN,East Cheshire NHS Trust,Magnetic Resonance Imaging,5,4,9,19,26.5,21,19,17,15.5,28,20,21,18
+934,Y62,RJN,East Cheshire NHS Trust,Nuclear Medicine Procedure,7,13.5,9,17,15.5,17,18.5,14,19,23.5,22,16,16
+935,Y62,RJN,East Cheshire NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+936,Y62,RXR,East Lancashire Hospitals NHS Trust,Computerized Axial Tomography,1,1,4,5,3,3,4,3,3,3,4,4,3
+937,Y62,RXR,East Lancashire Hospitals NHS Trust,Diagnostic Ultrasonography,17,14,13,14,16,20,18,23,23,24,21,26,20
+938,Y62,RXR,East Lancashire Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,1,1,0,1,1,0
+939,Y62,RXR,East Lancashire Hospitals NHS Trust,Magnetic Resonance Imaging,7,12,13,15,21,19,28,33.5,28,33,25,26,22
+940,Y62,RXR,East Lancashire Hospitals NHS Trust,Nuclear Medicine Procedure,15.5,15,14,19,10,17,15,10,9,15,16,11,14
+941,Y62,RXR,East Lancashire Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+942,Y62,RXR,East Lancashire Hospitals NHS Trust,Single Photon Emission Computerized Tomography,5,4,4,5,3,3,7,5,3,4,4,6,5
+943,Y62,NV1,InHealth Limited,Computerized Axial Tomography,.,.,.,.,196,201,177.5,126,104,115.5,99.5,85,152
+944,Y62,NV1,InHealth Limited,Diagnostic Ultrasonography,.,.,.,.,.,196,*,328,.,*,*,.,197.5
+945,Y62,NV1,InHealth Limited,Magnetic Resonance Imaging,104,93,117,109,75,73.5,67,49,46,42,51,49,60
+946,Y62,NV1,InHealth Limited,Plain Radiography,.,.,108,93.5,87,77,90.5,84,71,104,97,91,91
+947,Y62,NFO,Kleyn Healthcare,Diagnostic Ultrasonography,7,11,17,15,14,15,11,13,14,15,16,17,14
+948,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,1,1,1,1,1,1,1,1,1,1,1,1
+949,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,7,7,19,21,20,16,15,18,15,21,14,14,15
+950,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0.5,0,0,0,0,0,0,0,0,0,0
+951,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,6,6,10,7,8,10,11,10,8,7,8,15,9
+952,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,3,11,13,18,14,27,20,29,12,18.5,14,15,15
+953,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+954,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Positron Emission Tomography,5,5,5,7,6,7,5,7,6,6,7,7,6
+955,Y62,RXN,Lancashire Teaching Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,125,146,123,90,135,98,127.5,*,81.5,*,124
+956,Y62,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Computerized Axial Tomography,3,6,12,94,89.5,85,72,67.5,50,55,37,30,50
+957,Y62,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Diagnostic Ultrasonography,0,0,3,2,0,2,4,2.5,0,2,2,2,2
+958,Y62,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+959,Y62,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Magnetic Resonance Imaging,1.5,82,117,146,92,70,48,48,37,41,36,34,59
+960,Y62,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+961,Y62,RBQ,Liverpool Heart and Chest Hospital NHS Foundation Trust,Positron Emission Tomography,*,*,*,.,*,0,0,.,.,.,.,*,0
+962,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,0,1,1,1,1,1,2,1,1
+963,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,1,1,4,7,13,13,11,10,9,14.5,12,9,8
+964,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Fluoroscopy,1,1,3,1,1,2,3,4,2,3,5,3,2
+965,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,8,8,27,21,28,27,23,17,15,18,15,14,18
+966,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+967,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,3,7,14,15,17,16,17,15,12,15,16,12,14
+968,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+969,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Positron Emission Tomography,7,6,5,6,5,7,8,8,8,12,8,7,7
+970,Y62,REM,Liverpool University Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,7,3.5,5,5.5,13,8,5,3,8.5,12,10.5,9,7
+971,Y62,REP,Liverpool Women's NHS Foundation Trust,Computerized Axial Tomography,.,.,*,.,.,.,.,.,.,.,.,.,*
+972,Y62,REP,Liverpool Women's NHS Foundation Trust,Diagnostic Ultrasonography,12.5,12,13,12,13.5,14,13,11,13,16,13,15,13
+973,Y62,REP,Liverpool Women's NHS Foundation Trust,Fluoroscopy,*,.,1,*,*,.,1,*,*,*,*,*,1
+974,Y62,REP,Liverpool Women's NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+975,Y62,R0A,Manchester University NHS Foundation Trust,Computerized Axial Tomography,0,0,1,2,6,7,4,4,2,3,2,3,2
+976,Y62,R0A,Manchester University NHS Foundation Trust,Diagnostic Ultrasonography,4,2,7,10,14,13,11,13,11,14,11,11,10
+977,Y62,R0A,Manchester University NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,1,0,0,0,0,0
+978,Y62,R0A,Manchester University NHS Foundation Trust,Magnetic Resonance Imaging,3,4,20,18,18,13,13,16,18,32,26,28,17
+979,Y62,R0A,Manchester University NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+980,Y62,R0A,Manchester University NHS Foundation Trust,Nuclear Medicine Procedure,5,4,48.5,17.5,12,14,10.5,14,8,16,15.5,13,14
+981,Y62,R0A,Manchester University NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+982,Y62,R0A,Manchester University NHS Foundation Trust,Positron Emission Tomography,6,7,11,11,15,13,16.5,13,12,15,8,11.5,12
+983,Y62,R0A,Manchester University NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,.,*,111,32,43,*,25,28,42,42,33,37.5
+984,Y62,RBT,Mid Cheshire Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,2,3,1,1,1,2,1,1
+985,Y62,RBT,Mid Cheshire Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,0,0,0,0,0,0,0,0,0,0,0,0,0
+986,Y62,RBT,Mid Cheshire Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,1,0,0,0,0,0
+987,Y62,RBT,Mid Cheshire Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,3,10,32,15,21,25,22,24,22,29.5,29,18,21
+988,Y62,RBT,Mid Cheshire Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+989,Y62,NT2,Nuffield Health,Diagnostic Ultrasonography,.,.,.,.,.,.,.,.,.,*,.,*,.
+990,Y62,NT2,Nuffield Health,Magnetic Resonance Imaging,.,.,.,.,.,.,.,.,.,.,.,.,.
+991,Y62,NT2,Nuffield Health,Plain Radiography,*,.,.,.,.,.,.,.,*,.,.,.,.
+992,Y62,RW6,Pennine Acute Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,1,0,0,0,0,1,1,1,0
+993,Y62,RW6,Pennine Acute Hospitals NHS Trust,Diagnostic Ultrasonography,14,10,9,11,10,14,14,14,14,14,12,15,13
+994,Y62,RW6,Pennine Acute Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+995,Y62,RW6,Pennine Acute Hospitals NHS Trust,Magnetic Resonance Imaging,9,6,7,10,12,22,27,28,19,30,29,28,17
+996,Y62,RW6,Pennine Acute Hospitals NHS Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+997,Y62,RW6,Pennine Acute Hospitals NHS Trust,Nuclear Medicine Procedure,8,7,13,10,14,22,17,22,20,19,14,.,16
+998,Y62,RW6,Pennine Acute Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+999,Y62,RW6,Pennine Acute Hospitals NHS Trust,Single Photon Emission Computerized Tomography,*,*,21,37.5,31,42,43.5,41,41,36.5,27,.,35
+1000,Y62,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,10,.,4,5,4,12,6,6,6,14,16,15,7
+1001,Y62,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,14,3,89,7,14,11.5,14,16,21,20.5,15,23,15
+1002,Y62,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,0,1,1,2,2,0,0,0,0,0,0,0,0
+1003,Y62,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,26,.,5,9,6,10,14,22,30,50,40,29,20
+1004,Y62,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,0,0,2,1,3,1,0,0,0,0,0,0,0
+1005,Y62,RM3,Salford Royal NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,0,0,0,0,0,0
+1006,Y62,RM3,Salford Royal NHS Foundation Trust,Diagnostic Ultrasonography,14,6,7,9,15,21,21,22,16,18,20,20,15
+1007,Y62,RM3,Salford Royal NHS Foundation Trust,Fluoroscopy,1,2,5,4,7,9,8,13,7,10,10,7,7
+1008,Y62,RM3,Salford Royal NHS Foundation Trust,Magnetic Resonance Imaging,6,6,6,15,18,34,30,31,23,32,63,41,24
+1009,Y62,RM3,Salford Royal NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1010,Y62,RM3,Salford Royal NHS Foundation Trust,Nuclear Medicine Procedure,5,6.5,5,7,53.5,28,14,25.5,14,21,15,13,16
+1011,Y62,RM3,Salford Royal NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1012,Y62,RM3,Salford Royal NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,15,15,133,69,34,31,25,27.5,17,24,31
+1013,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Computerized Axial Tomography,0,0,1,1,1,1,1,1,1,1,1,2,1
+1014,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Diagnostic Ultrasonography,0,0,0,2,1,1,1,2,0,1,1,1,0
+1015,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Fluoroscopy,0,1,7,6,5,4.5,0,0,0,0,0,0,0
+1016,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Magnetic Resonance Imaging,5,4,9.5,17,20,17,14,12,14,21,21,19,15
+1017,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Nuclear Medicine Procedure,0,0,0,0,0,0,0,0,0,0,0,0,0
+1018,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1019,Y62,RVY,Southport and Ormskirk Hospital NHS Trust,Positron Emission Tomography,2,1,4,1,1,3,4,5,5,5,4,5.5,4
+1020,Y62,NT3,Spire Healthcare,Computerized Axial Tomography,10,52,5,10,12,16,11,9,10,11,7,8,9
+1021,Y62,NT3,Spire Healthcare,Diagnostic Ultrasonography,5,78,19,15,26,24,14,14,15,21,15,13,16
+1022,Y62,NT3,Spire Healthcare,Fluoroscopy,2.5,8,86,14,7,14,7,8,9,5,6,4,7
+1023,Y62,NT3,Spire Healthcare,Magnetic Resonance Imaging,3,52.5,43,9.5,10,16,14,15,21,34,14,9,15
+1024,Y62,NT3,Spire Healthcare,Plain Radiography,0,0,2,0,0,0,0,0,0,0,0,0,0
+1025,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Computerized Axial Tomography,0,0,1,2,1,1,2,1,2,1,1,1,1
+1026,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Diagnostic Ultrasonography,7,7,8,11,12,14,13,14,13,14,15,15,13
+1027,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Fluoroscopy,0.5,0,1,2,2,3,6,3.5,1,5,9,5,3
+1028,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Magnetic Resonance Imaging,3,7,9,12,14,16.5,15,16,16,21,14,14,13
+1029,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Nuclear Medicine Procedure,10.5,7,8,10,13,10,9,12,13,16,16,13,12
+1030,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1031,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Positron Emission Tomography,4,5,4,4,4,4,2,2,4,2.5,3,2,3
+1032,Y62,RBN,St Helens and Knowsley Teaching Hospitals NHS Trust,Single Photon Emission Computerized Tomography,.,.,*,*,.,*,.,.,*,.,*,*,23
+1033,Y62,RWJ,Stockport NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,1,1,0
+1034,Y62,RWJ,Stockport NHS Foundation Trust,Diagnostic Ultrasonography,12,8,11,15,14,18,20,20,13,15,14,16,14
+1035,Y62,RWJ,Stockport NHS Foundation Trust,Fluoroscopy,10.5,7,3,13,12,14,15,20,13,8,20,19,14
+1036,Y62,RWJ,Stockport NHS Foundation Trust,Magnetic Resonance Imaging,19,7,10,16,19,19,23,26,28,35,33,32,22
+1037,Y62,RWJ,Stockport NHS Foundation Trust,Nuclear Medicine Procedure,3,2,3,11,11,10,11,12,11,12,12,12,10
+1038,Y62,RWJ,Stockport NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1039,Y62,RWJ,Stockport NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,11,74,26,.,12.5,21,*,31,31,22,24.5
+1040,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Computerized Axial Tomography,1,1,3,2,2,5,5,6,3,2,3,3,3
+1041,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Diagnostic Ultrasonography,9,9,13,15,14,14,15,14,8,7,8,9,13
+1042,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Fluoroscopy,0,0,1,14,0,0,0,1,0,0.5,0,0.5,0
+1043,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Magnetic Resonance Imaging,9,10,11,11,15,21,33,41,30,21,9,5,15
+1044,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Nuclear Medicine Procedure,3,15.5,14,7,9,14,8,10,11,14,21,13,10
+1045,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1046,Y62,RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,*,*,2,*,19,2,*,20,17,6,13,13
+1047,Y62,RBV,The Christie NHS Foundation Trust,Computerized Axial Tomography,21,23,28,37,47,39,25,28,28,43,33,30.5,33
+1048,Y62,RBV,The Christie NHS Foundation Trust,Diagnostic Ultrasonography,1,1,3,7,10.5,12,13,10.5,8,9,11,9.5,7
+1049,Y62,RBV,The Christie NHS Foundation Trust,Fluoroscopy,1,2,4,6,6,6,5,5,6,6,7,6,5
+1050,Y62,RBV,The Christie NHS Foundation Trust,Magnetic Resonance Imaging,23,26,35,29,28,21,23,21,23,40.5,30,27,28
+1051,Y62,RBV,The Christie NHS Foundation Trust,Medical Photography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1052,Y62,RBV,The Christie NHS Foundation Trust,Nuclear Medicine Procedure,8,12,12,12,11,11,10,13,12,13,10,13,12
+1053,Y62,RBV,The Christie NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1054,Y62,RBV,The Christie NHS Foundation Trust,Positron Emission Tomography,9,9,15,11,8,9,9,9,8,9,7,9,9
+1055,Y62,RBV,The Christie NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,*,*,*,17.5,20,21.5,23,*,39,21.5,43,22
+1056,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Computerized Axial Tomography,3,6,15,18,27,25,20,24,28,32,28,28,22
+1057,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Diagnostic Ultrasonography,0,1,6,7,7,4,4,3,4,4.5,3,4,4
+1058,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Fluoroscopy,*,*,8.5,20,14,6,10,16,9.5,3,6,5.5,7
+1059,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Magnetic Resonance Imaging,27,20,16,22,25.5,28,20,20,24,30,25,24.5,24
+1060,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Nuclear Medicine Procedure,21,68,18.5,19.5,17,17,20,15,21,25,20,24,20
+1061,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Plain Radiography,0,0,0,1,0,0,0,0,0,0,0,0,0
+1062,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Positron Emission Tomography,7,*,6,10,8,6,7,6.5,5,3,8,6,6
+1063,Y62,REN,The Clatterbridge Cancer Centre NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,28,*,25,24,.,*,*,20,*,*,*,26
+1064,Y62,RET,The Walton Centre NHS Foundation Trust,Computerized Axial Tomography,0,0,2,2,1,1,1,1,0,1,1,7,1
+1065,Y62,RET,The Walton Centre NHS Foundation Trust,Diagnostic Ultrasonography,.,0,0,5,8,1,8,2,7,6,8,15,6
+1066,Y62,RET,The Walton Centre NHS Foundation Trust,Fluoroscopy,0,0,1.5,7,2,14,10.5,1,1.5,6,1,3,2
+1067,Y62,RET,The Walton Centre NHS Foundation Trust,Magnetic Resonance Imaging,8.5,66,91,34,30,33,36,38,34,44,36,39,38
+1068,Y62,RET,The Walton Centre NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1069,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Computerized Axial Tomography,13,14,14,15,14,13,11,11,15,15,14,13,14
+1070,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Diagnostic Ultrasonography,28,14,24,27,27,28,24,24,22,32,27,28,26
+1071,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Fluoroscopy,5,6,8,10,13.5,11,15,12,19.5,16,10,14,12
+1072,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Magnetic Resonance Imaging,19,10,11,8,10,11,15,20,24,29,23,22,15
+1073,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Nuclear Medicine Procedure,15,18.5,61,20,34,29,39,37,22.5,37,38,29.5,31
+1074,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Plain Radiography,19,7,10,7,8,7,8,10,6,6,6,6,7
+1075,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Positron Emission Tomography,2.5,2,2,3,4,3,*,.,.,6,*,11.5,3
+1076,Y62,RTX,University Hospitals of Morecambe Bay NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,28,36,33.5,33,38.5,30,23,38,*,35,36,35
+1077,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,4,1,2,2,3,1,1,1
+1078,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,13,4,6,13,15,22,22,21,14,15,14,15,14
+1079,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Fluoroscopy,0,1,3,0,0,0,0,0,1,2,1,1,1
+1080,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,9,9,40,27,21,33,17.5,22,22,18,17,24,22
+1081,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,5,5,7,7,7,6,5.5,7,8,8,7,6,7
+1082,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1083,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Positron Emission Tomography,5,4.5,5,.,.,.,.,.,.,.,.,.,5
+1084,Y62,RWW,Warrington and Halton Teaching Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,37.5,25,*,7,2,*,*,14,8,7.5,10
+1085,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,2,2,1,1,2,1,1
+1086,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Diagnostic Ultrasonography,0,1,2,4,5,4,6,6,5,4,3,4,3
+1087,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Fluoroscopy,1,1,7,4,3.5,8,8,5,4,10,4,2,4
+1088,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Magnetic Resonance Imaging,3,8,14,13,14,13,12,13,14,17,12,13,13
+1089,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Nuclear Medicine Procedure,7.5,75.5,10.5,18,13,15,16.5,16,21,22,15.5,12.5,16
+1090,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1091,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Positron Emission Tomography,0,1,0,1,1,2,2,3,3,6,4,0,2
+1092,Y62,RBL,Wirral University Teaching Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,*,.,.,*,.,.,.,.,.,*
+1093,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Computerized Axial Tomography,0,0,1,1,1,1,2,1,2,3,2,3,1
+1094,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Diagnostic Ultrasonography,14,19,20,20,21,27,26,28,22,25,20,23,22
+1095,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Fluoroscopy,0,0,6,1,1,1,3.5,8,1,8,3,2,1
+1096,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Magnetic Resonance Imaging,3,15,29,10,6,10,16,19,21,32,25,26,15
+1097,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Medical Photography,.,*,.,.,.,.,.,.,*,.,.,.,*
+1098,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Nuclear Medicine Procedure,9,7,17,20,20,20,19,21,15,22,19,22,19
+1099,Y62,RRF,"Wrightington, Wigan and Leigh NHS Foundation Trust",Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1100,Y63,RCF,Airedale NHS Foundation Trust,Computerized Axial Tomography,0,0,3,3,1,2,3,4,2,3,3,6,2
+1101,Y63,RCF,Airedale NHS Foundation Trust,Diagnostic Ultrasonography,14,12,15,14,13,14,14,15,14,19.5,15,18,14
+1102,Y63,RCF,Airedale NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,1,0,4,1,1,0
+1103,Y63,RCF,Airedale NHS Foundation Trust,Magnetic Resonance Imaging,3,6,14,13,8,9,10,12,10,13,11,11,11
+1104,Y63,RCF,Airedale NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1105,Y63,NT9,Alliance Medical,Computerized Axial Tomography,.,.,.,.,.,.,.,.,.,*,.,.,*
+1106,Y63,NT9,Alliance Medical,Magnetic Resonance Imaging,7,10,16,21,13,10,9,9,12,11,12,13,11
+1107,Y63,NT9,Alliance Medical,Positron Emission Tomography,6,6,7,7,7,8,8,7,7,7,6,5,7
+1108,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,1,1,1,1,1,1,1
+1109,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Diagnostic Ultrasonography,6,4,7,8,15,14,14,18,16,16,14.5,17,13
+1110,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,1,0,0,0,0,0,0,0
+1111,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Magnetic Resonance Imaging,2,2,4,6,15,12,26,13,8,7,9,10,8
+1112,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Nuclear Medicine Procedure,6,6,11,18,15,17,16.5,14,10,15,14,17,14
+1113,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1114,Y63,RFF,Barnsley Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,1,1,10,1,*,1,1,2,1,1,1,2,1
+1115,Y63,NT4,BMI Healthcare,Computerized Axial Tomography,*,1,1,2,5,5,1,1,1,2,2,2,2
+1116,Y63,NT4,BMI Healthcare,Diagnostic Ultrasonography,0.5,*,3,5,2,7,7,11,10,14,13,16,8
+1117,Y63,NT4,BMI Healthcare,Fluoroscopy,.,.,.,*,.,.,.,0,.,.,.,.,0
+1118,Y63,NT4,BMI Healthcare,Magnetic Resonance Imaging,4,3,18,17,8,28,28,28,23,17,16,16.5,17
+1119,Y63,NT4,BMI Healthcare,Plain Radiography,0,1,3,1,0,0,0,0,0,0,0,0,0
+1120,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,3,4,3,2,2,1,2,2,2
+1121,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,13,7,8,13,15,14,14,14,15,16,14,14,14
+1122,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Fluoroscopy,2,3,4,6,4,3,3,2,2,3,3,2,3
+1123,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,6,5,6,13,49,24,15,13,13,16,15,18,14
+1124,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,5,5,31,131,136,88.5,68,62,48,39,37,33,45
+1125,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1126,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Positron Emission Tomography,7,7.5,6,6,6,10,7,6,6,7,6,5,6
+1127,Y63,RAE,Bradford Teaching Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,32.5,60,83,86,85,71,45,25,23,43,27,34,49
+1128,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,1,1,1,1,0,1,0
+1129,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Diagnostic Ultrasonography,0,0,0,0,0,0,0,1,1,1,1,1,0
+1130,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+1131,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Magnetic Resonance Imaging,4,5,7,15,13,14,33,29,22,12,9,11,13
+1132,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Medical Photography,1,1,1,1,1,1,1,0,1,1,0,0,1
+1133,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Nuclear Medicine Procedure,5,7,6,8,10.5,19,16,9,11,21,20,13,12
+1134,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1135,Y63,RWY,Calderdale and Huddersfield NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,.,.,17,14,22,20.5,19
+1136,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Computerized Axial Tomography,20.5,9,13,14,15,15,14,18,18,21,15,18,15
+1137,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Diagnostic Ultrasonography,36,11,13,13,16,28,24,25,25,35,30,33,21
+1138,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Fluoroscopy,5,9,12,15,16,15,16,14,15,15,6,15,14
+1139,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Magnetic Resonance Imaging,33,10,17,21,27,32,32,36,35,38,32,28,28
+1140,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Nuclear Medicine Procedure,12,12,12,9,13,12.5,11,12,13,11,12,13,12
+1141,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Plain Radiography,1,1,2,2,3,3,2,3,3,2,3,3,3
+1142,Y63,RXP,County Durham and Darlington NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,29,13,9.5,14.5,13,17,15,16,25.5,15,17,15.5
+1143,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1144,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,14,13,13,14,16,19,18,20,19,20,15,17,15
+1145,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Fluoroscopy,5,2.5,4,11,22,19,15,13,8,18,12,13,13
+1146,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,2,4,8,93,32,25,23,25,25,26,24,18,22
+1147,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,13,13,13,148.5,89,78,20,65.5,18,54,22,32.5,33
+1148,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1149,Y63,RP5,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,*,.,.,.,.,.,*
+1150,Y63,RR7,Gateshead Health NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,0,1,1,1,0,1,1,1,0
+1151,Y63,RR7,Gateshead Health NHS Foundation Trust,Diagnostic Ultrasonography,7,12,7,9,11,20,21,16,12,11,9,13,13
+1152,Y63,RR7,Gateshead Health NHS Foundation Trust,Fluoroscopy,1,3,16,7,84,1,6,7,7,21,24,14,12
+1153,Y63,RR7,Gateshead Health NHS Foundation Trust,Magnetic Resonance Imaging,1,1,2,2,7,7,7,8,7,8,8,6,5
+1154,Y63,RR7,Gateshead Health NHS Foundation Trust,Nuclear Medicine Procedure,8,7,11,67,50,52,33,19,26,31,14,13,20
+1155,Y63,RR7,Gateshead Health NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1156,Y63,RR7,Gateshead Health NHS Foundation Trust,Positron Emission Tomography,8,7,9.5,8,11,12,12,7.5,9.5,8,6,6,8
+1157,Y63,RR7,Gateshead Health NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,2,11,3,12,19,3,3,9,22,3.5,2.5,3
+1158,Y63,RCD,Harrogate and District NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1159,Y63,RCD,Harrogate and District NHS Foundation Trust,Diagnostic Ultrasonography,6,5,8,9,12,14,16,21,18,29,22,16,14
+1160,Y63,RCD,Harrogate and District NHS Foundation Trust,Fluoroscopy,0,0,0,0,4,5,4,8,9,6,0,1,2
+1161,Y63,RCD,Harrogate and District NHS Foundation Trust,Magnetic Resonance Imaging,5,3,9,8,15,24,22,28,18,30,32,22,16
+1162,Y63,RCD,Harrogate and District NHS Foundation Trust,Nuclear Medicine Procedure,20.5,35,44,15,20,17,24,32,26,30,22,22,23
+1163,Y63,RCD,Harrogate and District NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1164,Y63,RCD,Harrogate and District NHS Foundation Trust,Positron Emission Tomography,6,4,10,4,3,7,4,4,5,4,3,4,4
+1165,Y63,RCD,Harrogate and District NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,27,93,11,12,7.5,9.5,11,16,38,15,13,13
+1166,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,1,0,0,1,0,0
+1167,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Diagnostic Ultrasonography,0,1,3,5,6,5,6,8,6,7,7,7,5
+1168,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Fluoroscopy,1,2,3,2,1,2,3,3,2,6,4,4,2
+1169,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Magnetic Resonance Imaging,11,39,18,13,15,14,16,22,16,16,13,18,16
+1170,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Nuclear Medicine Procedure,4.5,8.5,9,14,31,25,18,18,14,21,21,19,18
+1171,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1172,Y63,RWA,Hull University Teaching Hospitals NHS Trust,Single Photon Emission Computerized Tomography,9,59,21,21.5,24,17,18,23,21,23.5,24,28,22
+1173,Y63,NV1,InHealth Limited,Magnetic Resonance Imaging,12,1,2,10,14,11,7,20,9,10,6,28,10.5
+1174,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Computerized Axial Tomography,0,0,1,1,1,2,2,1,1,1,2,2,1
+1175,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Diagnostic Ultrasonography,1,2,7,10,9,13,15,14,10,14,13,12,10
+1176,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Fluoroscopy,0,1,1,1,1,1,1,2,1,1,3,2,1
+1177,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Magnetic Resonance Imaging,8,9,13,17,28,36,25,28,20,36,29,28,23
+1178,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Nuclear Medicine Procedure,8,13,22,14,17,15,19,19,15,26,19,20,17
+1179,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1180,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Positron Emission Tomography,9,7,7,7,7,9,7,7,7,6,6,7,7
+1181,Y63,RR8,Leeds Teaching Hospitals NHS Trust,Single Photon Emission Computerized Tomography,*,*,35,35,34.5,25,21,25,22,34,28,28,27
+1182,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Computerized Axial Tomography,1,1,2,3,2,2,5,6,2,4,2,3,3
+1183,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Diagnostic Ultrasonography,8,4,6,7,11,12,12,12,9,12,12,12,10
+1184,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+1185,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Magnetic Resonance Imaging,9,4,8,13,14,12,16,23,20,26,25,25,16
+1186,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Nuclear Medicine Procedure,5,5,4,4,5,5,5,4,5,5,5,5,5
+1187,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1188,Y63,RXF,Mid Yorkshire Hospitals NHS Trust,Positron Emission Tomography,.,.,.,.,.,.,*,.,*,.,.,.,*
+1189,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,3,3,3,1,1,1,1,1
+1190,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Diagnostic Ultrasonography,0,0,1,1,1,1,2,2,1,2,2,2,1
+1191,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+1192,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Magnetic Resonance Imaging,6,12,14,17,22,18,20,22,23,23,18,21,18
+1193,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Nuclear Medicine Procedure,8,13.5,12,14,12.5,13.5,15.5,21,23,29,17.5,21,16
+1194,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1195,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Positron Emission Tomography,11,8,9,8,12,8,8,8,11,11,11,10,10
+1196,Y63,RNN,North Cumbria Integrated Care NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,.,8.5,9,*,27,24.5,.,233.5,79,.,.,28.5
+1197,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Computerized Axial Tomography,0,0,1,3,2,2,3,3,2,3,2,2,1
+1198,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Diagnostic Ultrasonography,6,8,13,9,8,7,6,7,11,10,11.5,13,8
+1199,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Fluoroscopy,0,2,1,8,2,4.5,2.5,7,3,8.5,14,5,5
+1200,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Magnetic Resonance Imaging,1,11,13,16,25,26,24,27,31,36,29,27,23
+1201,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Nuclear Medicine Procedure,4.5,49,11,11,15,14,16.5,10,13,14,13,14,13
+1202,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1203,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Positron Emission Tomography,6,7,6,6,7,6,6.5,7,8,5,7,7.5,7
+1204,Y63,RVW,North Tees and Hartlepool NHS Foundation Trust,Single Photon Emission Computerized Tomography,7,11,8,10,14,8,7.5,9,7.5,15,11.5,15,11
+1205,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Computerized Axial Tomography,1,0,1,3,2,3,4,4,3,4,5,4,3
+1206,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Diagnostic Ultrasonography,1,0,3,5,6,7,9,8,5,7,7,7,5
+1207,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,1,0,2,0,0
+1208,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Magnetic Resonance Imaging,18,9,10,14,22,28,38,37,28,29,25,21,23
+1209,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Nuclear Medicine Procedure,13,8,84,41,36,35,20,33.5,31,36,23,23.5,30
+1210,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1211,Y63,RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,*,*,41,*,68.5,30,*,*,36,13,28,34
+1212,Y63,RTF,Northumbria Healthcare NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,2,1,1,1,1,2,1
+1213,Y63,RTF,Northumbria Healthcare NHS Foundation Trust,Diagnostic Ultrasonography,2,7,11,12,11,19,15,14,17,16,18,21,14
+1214,Y63,RTF,Northumbria Healthcare NHS Foundation Trust,Fluoroscopy,0,7,16.5,16,25,16,28,26,22,23,25,30,22
+1215,Y63,RTF,Northumbria Healthcare NHS Foundation Trust,Magnetic Resonance Imaging,5,29,12,13,17,17,21,26,25,31,22,22,20
+1216,Y63,RTF,Northumbria Healthcare NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1217,Y63,NT2,Nuffield Health,Computerized Axial Tomography,6,7,7,6,5,5,5,7,16,13,11,10,8
+1218,Y63,NT2,Nuffield Health,Diagnostic Ultrasonography,*,*,.,*,84.5,15,14.5,14.5,*,46,0,0,0
+1219,Y63,NT2,Nuffield Health,Fluoroscopy,.,0,1,*,9,*,*,*,.,.,20,0,1
+1220,Y63,NT2,Nuffield Health,Magnetic Resonance Imaging,6,7,8,9,7,8.5,10,7,7,7,13,10,8
+1221,Y63,NT2,Nuffield Health,Plain Radiography,0,0,0,0,0,1,6.5,3,3,1,9,15,4
+1222,Y63,NVC,Ramsay Healthcare UK Operations Limited,Computerized Axial Tomography,23,99,49,120.5,18,13,15,25,25,30.5,15,21,28
+1223,Y63,NVC,Ramsay Healthcare UK Operations Limited,Diagnostic Ultrasonography,7,0,1,4,8,11,16,10.5,20,22,24,30,16
+1224,Y63,NVC,Ramsay Healthcare UK Operations Limited,Fluoroscopy,0,0,0,0,0,0,0,0,1,0,0,0,0
+1225,Y63,NVC,Ramsay Healthcare UK Operations Limited,Magnetic Resonance Imaging,0,51,21.5,8,8,9,14,14,11,12,19.5,31.5,12
+1226,Y63,NVC,Ramsay Healthcare UK Operations Limited,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1227,Y63,RCU,Sheffield Children's NHS Foundation Trust,Computerized Axial Tomography,27,16,21,32,21.5,22,21,21,19,28,21,23,22
+1228,Y63,RCU,Sheffield Children's NHS Foundation Trust,Diagnostic Ultrasonography,38,40,31,33,35,38,36,38,40,41,55,49,39
+1229,Y63,RCU,Sheffield Children's NHS Foundation Trust,Fluoroscopy,26,22,35,36,46,34,31,39,32.5,49,49,39,36
+1230,Y63,RCU,Sheffield Children's NHS Foundation Trust,Magnetic Resonance Imaging,37,38,35.5,35,35,28,29,30,35,41,30,37,35
+1231,Y63,RCU,Sheffield Children's NHS Foundation Trust,Nuclear Medicine Procedure,16.5,26.5,26,58,42,27,21,56,62,36.5,30,22,36
+1232,Y63,RCU,Sheffield Children's NHS Foundation Trust,Plain Radiography,22,7,8,21,26,27,22,21,13,14,16,42.5,18
+1233,Y63,RCU,Sheffield Children's NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,.,*,*,*,*,*,*,*,.,*,.,21.5
+1234,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,0,1,1,1,1,1,1,1,1,1,1
+1235,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,0,0,1,6.5,7,7,5,7,5,7,7,8,5
+1236,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Fluoroscopy,2,3,4,6,9,7,9,10,11,7,9,7,7
+1237,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,6,7,13,19,24,19,26,34,32,31,31,32,24
+1238,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,7,10,17,15,20,32,28,35,27,32.5,23,21,24
+1239,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1240,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Positron Emission Tomography,6,5,6,6,6,7,7,7,6,5,4,3,6
+1241,Y63,RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,5,6,9,10,12,12,13,13,16,22,15.5,15,13
+1242,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,2,2,2,1,2,2,2,1
+1243,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,3,2,5,7,13,13,13,14,14,20,15,17,13
+1244,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Fluoroscopy,9,6,7,11,11.5,16,16,22,19.5,18,17,22,15
+1245,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,5,4,7.5,10,20,28,24,28,27,32,23,26,23
+1246,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,3,5,99,15,17,15,12,17.5,12,19,13,13,15
+1247,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1248,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Positron Emission Tomography,6,4,6,4,6,8,5,4,6.5,3.5,4,7,5
+1249,Y63,RTR,South Tees Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,31,*,11,19,69,26,44,15,20,19,.,27,21.5
+1250,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Computerized Axial Tomography,0,0,1,1,1,1,2,3,2,1,1,2,1
+1251,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Diagnostic Ultrasonography,6,5,4,5,6,7,7,6,7,8,7,7,6
+1252,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,1,1,1,1,1,1,0
+1253,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Magnetic Resonance Imaging,2,1,3,6,8,9,13,18,23,20,29,23,12
+1254,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Nuclear Medicine Procedure,3,6,6,8,12,12,16,14.5,14,16,14,15,13
+1255,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1256,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Positron Emission Tomography,6,6,8,7.5,10,11,8,7,6,6,4,5,7
+1257,Y63,R0B,South Tyneside and Sunderland NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,11,16,25,13,*,13,9,11,10,15,13,12
+1258,Y63,NT3,Spire Healthcare,Computerized Axial Tomography,3,6.5,83,7,14,16,14,19,8,6,13,10,9
+1259,Y63,NT3,Spire Healthcare,Diagnostic Ultrasonography,0,9,7,7,16,17,12,15,15,0,0,0,8
+1260,Y63,NT3,Spire Healthcare,Fluoroscopy,*,2,1,3,2,2,1,4,3,1,1,1,1
+1261,Y63,NT3,Spire Healthcare,Magnetic Resonance Imaging,2,16,15.5,8,16,24,21,22,14,37,17,21,20
+1262,Y63,NT3,Spire Healthcare,Plain Radiography,0,1,0,0,0,0,0,0,0,0,0,0,0
+1263,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Computerized Axial Tomography,0,0,1,2,1,5,3,3,1,2,3,4,2
+1264,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Diagnostic Ultrasonography,0,8,19,13,12,11,13,13,13,14,13,15,12
+1265,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Fluoroscopy,0,0,0,0,0,0,0,0,0,0,0,0,0
+1266,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Magnetic Resonance Imaging,22,23,40,28,37,34,29,32,32,40,30,33,33
+1267,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Nuclear Medicine Procedure,7,10,13,15,14,15,14,15,14,18.5,14,14,14
+1268,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1269,Y63,RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Single Photon Emission Computerized Tomography,9,23,14,20,27,18,15,17.5,13.5,13.5,12.5,14,15
+1270,Y63,RFR,The Rotherham NHS Foundation Trust,Computerized Axial Tomography,.,.,.,.,.,.,.,.,.,.,.,.,.
+1271,Y63,RFR,The Rotherham NHS Foundation Trust,Diagnostic Ultrasonography,.,.,.,.,.,.,.,.,.,.,.,.,.
+1272,Y63,RFR,The Rotherham NHS Foundation Trust,Fluoroscopy,.,.,.,.,.,.,.,.,.,.,.,.,.
+1273,Y63,RFR,The Rotherham NHS Foundation Trust,Magnetic Resonance Imaging,.,.,.,.,.,.,.,.,.,.,.,.,.
+1274,Y63,RFR,The Rotherham NHS Foundation Trust,Nuclear Medicine Procedure,.,.,.,.,.,.,.,.,.,.,.,.,.
+1275,Y63,RFR,The Rotherham NHS Foundation Trust,Plain Radiography,.,.,.,.,.,.,.,.,.,.,.,.,.
+1276,Y63,RFR,The Rotherham NHS Foundation Trust,Single Photon Emission Computerized Tomography,.,.,.,.,.,.,*,*,*,.,.,.,.
+1277,Y63,NN4,Tyneside Surgical Services Ltd,Computerized Axial Tomography,.,.,*,136,21.5,15,11,29,37,*,36.5,15.5,23.5
+1278,Y63,NN4,Tyneside Surgical Services Ltd,Diagnostic Ultrasonography,.,.,117,144.5,162,59,48,24,19,22,24,32,36
+1279,Y63,NN4,Tyneside Surgical Services Ltd,Fluoroscopy,.,.,.,*,.,.,.,.,*,74,*,41,45
+1280,Y63,NN4,Tyneside Surgical Services Ltd,Magnetic Resonance Imaging,.,.,112,126,40,27.5,77,22,10,24,23.5,25,29.5
+1281,Y63,NN4,Tyneside Surgical Services Ltd,Nuclear Medicine Procedure,.,.,.,.,.,*,*,*,57.5,49.5,*,25.5,43
+1282,Y63,NN4,Tyneside Surgical Services Ltd,Plain Radiography,.,.,.,.,.,.,.,.,.,.,*,.,*
+1283,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Computerized Axial Tomography,0,0,0,0,0,0,0,1,1,0,1,0,0
+1284,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Diagnostic Ultrasonography,2,2,3,6,6,7,7,8,7,7,7,8,6
+1285,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Fluoroscopy,0,0.5,1,1.5,0,1,1,1,1,1,1,1,1
+1286,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Magnetic Resonance Imaging,14,16,12,14,14.5,14,16,19,23,24,24,21,17
+1287,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Nuclear Medicine Procedure,9,10,15,15,13,12,17,13,14,13,12,10,13
+1288,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Plain Radiography,0,0,0,0,0,0,0,0,0,0,0,0,0
+1289,Y63,RCB,York Teaching Hospital NHS Foundation Trust,Single Photon Emission Computerized Tomography,*,82,28,80,133,63,36,29.5,55,46.5,28,39.5,42
