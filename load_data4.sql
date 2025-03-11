@@ -1,43 +1,15 @@
 CREATE TABLE modality (
+
     region VARCHAR(4),
     orgCode varchar(4),
     modality varchar(50),
     month_val varchar(3),
-    medianWaitDays varchar(6)
-    year_val varchar(8),
-    date_ym varchar(10),
-    primary key (region, orgCode)
-);
+    medianWaitDays float,
+    year_val integer,
+    date_ym number
+                      );
 
-CREATE TABLE GDHI_EXT(
-    region VARCHAR(100) NOT NULL,
-    gdhi NUMBER NOT NULL,
-    PRIMARY KEY (region)
-);
-
-CREATE TABLE Workforce_EXT(
-    region_num VARCHAR(3) NOT NULL,
-    region_name VARCHAR(100) NULL,
-    org_name VARCHAR(255) NOT NULL,
-    org_code VARCHAR(5) NOT NULL,
-    apr_2020 NUMBER NULL,
-    may_2020 NUMBER NULL,
-    jun_2020 NUMBER NULL,
-    jul_2020 NUMBER NULL,
-    aug_2020 NUMBER NULL,
-    sep_2020 NUMBER NULL,
-    oct_2020 NUMBER NULL,
-    nov_2020 NUMBER NULL,
-    dec_2020 NUMBER NULL,
-    jan_2021 NUMBER NULL,
-    feb_2021 NUMBER NULL,
-    mar_2021 NUMBER NULL,
-    PRIMARY KEY (region_num, org_code),
-    FOREIGN KEY (region_num, org_code)
-    REFERENCES Modality(region, orgCode)
-    ON DELETE SET NULL
-
-);insert into modality values ('Y56','NT9','Computerized Axial Tomography','Apr',1,2020,2020-04);
+insert into modality values ('Y56','NT9','Computerized Axial Tomography','Apr',1,2020,2020-04);
 insert into modality values ('Y56','NT9','Magnetic Resonance Imaging','Apr',8,2020,2020-04);
 insert into modality values ('Y56','NT9','Positron Emission Tomography','Apr',7,2020,2020-04);
 insert into modality values ('Y56','RF4','Computerized Axial Tomography','Apr',0,2020,2020-04);
